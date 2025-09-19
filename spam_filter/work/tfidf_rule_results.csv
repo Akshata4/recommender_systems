@@ -1,0 +1,7 @@
+filename,tfidf_spam_score,threshold,label
+Document5.pdf,1.889822365046136,0.3,SPAM
+Document1.pdf,1.714466210968947,0.3,SPAM
+Document2.pdf,1.714466210968947,0.3,SPAM
+Document3.pdf,1.5532174309499072,0.3,SPAM
+Document6.pdf,1.4142135623730951,0.3,SPAM
+Document4.pdf,1.4090960450372356,0.3,SPAM
