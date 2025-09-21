@@ -1,0 +1,7 @@
+filename,pred_one_class,decision_score
+Document1.pdf,spam,0.0986709120497059
+Document2.pdf,spam,0.0986709120497059
+Document4.pdf,spam,0.04876204092723341
+Document3.pdf,spam,0.03725900035877616
+Document6.pdf,spam,0.012506432435119563
+Document5.pdf,ham,-0.07836410183641385
