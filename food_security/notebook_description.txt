@@ -1,0 +1,102 @@
+Notebook purpose and explanation — Food Security RAG system
+
+I have created a notebook to ground LLM output to food-security-related documents and produce evidence-based, actionable answers.
+
+High-level purpose
+
+- Ground LLM responses in real documents (PDFs) about food security so generated recommendations are supported by the source material.
+- Provide a small RAG (Retrieval-Augmented Generation) pipeline that:
+  1) Loads and preprocesses PDFs into Document chunks.
+  2) Creates embeddings for chunks using an embedding model.
+  3) Stores embeddings in a vector store for semantic similarity search.
+  4) Retrieves top-k relevant chunks for a user query and conditions an LLM prompt on those chunks.
+  5) Produces grounded, context-aware recommendations.
+
+Notebook structure (cell-by-cell overview)
+
+1) Title & overview (Cell 1)
+   - Shows the notebook title and a short overview of goals and features.
+
+
+
+2) Setup & dependencies (Cell 2 — code)
+   - Imports libraries: dotenv, langchain_openai components, text splitter, vectorstore classes, etc.
+   - Loads `.env` via `load_dotenv()` and reads the API key (e.g., `OPENAI_API_KEY`).
+   - Important: ensure a valid API key is present before running embeddings or LLM calls.
+
+
+
+3) Load & process PDFs (Cell 3 — code)
+   - Uses `glob` to find PDF files in `data/*.pdf`.
+   - Loads PDFs with `PyPDFLoader` into `Document` objects.
+   - Splits documents into chunks using `RecursiveCharacterTextSplitter` (configurable chunk size and overlap).
+   - Produces a `chunks` list of documents ready for embedding.
+
+
+
+4) Create embeddings & vector store (Cell 4 — code)
+   - Initializes an embeddings client (e.g., `OpenAIEmbeddings`) with the configured API key and API base.
+   - Calls `InMemoryVectorStore.from_documents(chunks, embeddings_model)` to compute embeddings and store them.
+   - Common failure: AuthenticationError (401) if API key is invalid or incorrectly configured. If this happens, check the `OPENAI_API_KEY` or `OPENROUTER_API_KEY` environment variables.
+
+
+
+5) Build prompt & response generator (Cell 5 — code)
+   - Creates a ChatPromptTemplate that instructs the LLM to use retrieved context and answer with actionable recommendations.
+   - Configures the LLM wrapper (e.g., `ChatOpenAI`) and a small chain that formats the retrieved chunks into the prompt, calls the LLM, and parses the output.
+
+
+
+6) Interactive query (Cell 6 — code)
+   - Example interactive cell to pass a question to the pipeline and print the result.
+   - Helps test end-to-end: retrieval -> prompt -> LLM -> parsed response.
+
+
+
+How to run (quick notes)
+
+- Ensure dependencies are installed in your environment (e.g., `langchain`, `langchain-openai`, `python-dotenv`, and loader libs). Follow your project's `pyproject.toml` or install into the notebook virtualenv.
+
+- Add a valid API key:
+  - For OpenAI: set `OPENAI_API_KEY` in a `.env` file or environment (do NOT commit the key).
+  - If using an OpenRouter proxy, set `OPENROUTER_API_KEY` and optionally `OPENROUTER_API_BASE`.
+
+- Run cells in order: 1 → 2 → 3 → 4 → 5 → 6. If the embeddings step fails, fix the API key first and re-run from the setup cell.
+
+
+
+What to capture for reporting or screenshots
+
+- The rendered notebook title and overview.
+
+
+
+- The setup cell output showing which provider/API-base the code will use (don’t screenshot secrets).
+
+
+
+- The printed counts of loaded documents and number of chunks.
+
+
+
+- A sample chunk preview to verify text splitting.
+
+
+
+- The vector store creation success or full error trace if it fails (include the error message but redact any secret material).
+
+
+
+- A sample generated answer to a test question demonstrating the grounded recommendation.
+
+
+
+Security and best practices
+
+- Never commit API keys or post them in screenshots.
+- Rotate keys if accidentally exposed.
+- For reproducibility, document the Python package versions in `pyproject.toml` or capture a `pip freeze` output for a requirements file.
+
+
+
+If you want this content inserted into the notebook as a new markdown cell, I can add it (I will produce valid JSON for the new notebook cell). If you want any edits to the text or a different filename, tell me the filename and adjustments.
