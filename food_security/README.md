@@ -17,14 +17,6 @@ High-level pipeline:
 See `notebook_description.txt` for a detailed walkthrough of the notebook steps and screenshot placeholders.
 
 ## Quick start
-
-- Install dependencies (create a virtual environment, then install project dependencies):
-
-	# Use your environment's package manager; example for pip:
-	# python -m venv .venv
-	# source .venv/bin/activate
-	# pip install -r requirements.txt
-
 - Add your API key in a `.env` file or as environment variables:
 
 	- For OpenAI: set `OPENAI_API_KEY`
