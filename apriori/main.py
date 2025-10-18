@@ -68,7 +68,7 @@ for idx, basket in enumerate(test_transactions):
     if possible_next_items:
         # sort by confidence and lift
         sorted_items = sorted(possible_next_items, key=lambda x: (x[1], x[2]), reverse=True)
-        top_items = sorted_items[:3]  # top 3 predictions
+        top_items = sorted_items[:1]  # top 1 predictions
         pred_items = [i[0] for i in top_items]
         predictions.append({
             "test_basket_id": idx + 1,
@@ -86,7 +86,7 @@ for idx, basket in enumerate(test_transactions):
 
 # Convert predictions to DataFrame
 pred_df = pd.DataFrame(predictions)
-pred_df.to_csv("data/next_item_predictions.csv", index=False)
+# pred_df.to_csv("data/next_item_predictions.csv", index=False)
 
 print("\n✅ Predictions saved to 'next_item_predictions.csv'")
-print(pred_df.head())
+print(list(pred_df['predicted_items']))
