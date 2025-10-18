@@ -1,0 +1,2 @@
+test_basket_id,basket_items,predicted_items,confidence_lift
+1,"['Organic Pink Lemonade Bunny Fruit Snacks', 'Peach-Pear Sparkling Water', 'Dark Chocolate Minis']","['Sparkling Water, Natural Mango Essenced', 'Sparkling Water, Natural Mango Essenced', 'Sparkling Water, Natural Mango Essenced']","[(0.9374999999999999, 69.96710526315789), (0.8947368421052632, 66.77562326869806), (0.888888888888889, 66.33918128654972)]"

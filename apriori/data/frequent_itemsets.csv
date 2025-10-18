@@ -1,0 +1,1493 @@
+support,itemsets
+0.009873060648801129,frozenset({'0% Greek Strained Yogurt'})
+0.004936530324400564,"frozenset({'100% Juice, Variety Pack'})"
+0.009167842031029619,frozenset({'100% Premium Select Not From Concentrate Pure Prune Juice'})
+0.005641748942172073,frozenset({'100% Recycled Paper Towels'})
+0.014809590973201692,frozenset({'1500 Pale Ale'})
+0.007757404795486601,frozenset({'2% Reduced Fat Milk'})
+0.009167842031029619,frozenset({'49 Flavors Jelly Belly Jelly Beans'})
+0.009167842031029619,frozenset({'80  Vodka Holiday Edition'})
+0.00846262341325811,frozenset({'85% Lean Ground Beef'})
+0.004936530324400564,frozenset({'Acai Berry Chia Bar'})
+0.004936530324400564,frozenset({'Adult Grain-Free & Poultry-Free Dog Food'})
+0.010578279266572637,frozenset({'Annie Peely Fruit 4.5 Z'})
+0.007757404795486601,"frozenset({""Annie's Bunny Fruit Snacks Variety""})"
+0.007052186177715092,frozenset({'Antimo Caputo Flour'})
+0.01622002820874471,frozenset({'Apple Honeycrisp Organic'})
+0.015514809590973202,frozenset({'Apples'})
+0.013399153737658674,frozenset({'Asparagus'})
+0.007052186177715092,frozenset({'Asparation/Broccolini/Baby Broccoli'})
+0.014809590973201692,frozenset({'Authentic French Brioche'})
+0.1325811001410437,frozenset({'Bag of Organic Bananas'})
+0.09590973201692525,frozenset({'Banana'})
+0.007757404795486601,frozenset({'Bars Peanut Butter'})
+0.005641748942172073,frozenset({'Bartlett Pears'})
+0.009873060648801129,frozenset({'Blueberries'})
+0.005641748942172073,frozenset({'Blueberry Almond Breakfast Bars'})
+0.004936530324400564,frozenset({'Blueberry English Tea Scones'})
+0.007757404795486601,frozenset({'Blueberry Yoghurt'})
+0.005641748942172073,frozenset({'Bold & Crispy Zesties! Crispy Seasoned French Fried Potatoes'})
+0.011283497884344146,frozenset({'Boneless Skinless Chicken Breasts'})
+0.00846262341325811,frozenset({'Bonne Bouche Ash-Ripened Goat Cheese'})
+0.007052186177715092,frozenset({'Boomchickapop Sea Salt Popcorn'})
+0.011283497884344146,"frozenset({'Bread, Country Buttermilk'})"
+0.009873060648801129,frozenset({'Broccoli Crown'})
+0.012693935119887164,frozenset({'Brown Eggs'})
+0.007757404795486601,frozenset({'Brussels Sprouts'})
+0.012693935119887164,frozenset({'Bunched Cilantro'})
+0.011988716502115656,frozenset({'Bunny-Luv Fresh Organic Carrots'})
+0.004936530324400564,frozenset({'Butter 2.0 Featuring Virgin Coconut Oil'})
+0.005641748942172073,frozenset({'Butterhead Lettuce'})
+0.005641748942172073,frozenset({'Canola Oil'})
+0.009167842031029619,frozenset({'Caramel Cone Ice Cream'})
+0.019746121297602257,frozenset({'Carrots'})
+0.005641748942172073,frozenset({'Cheddar Bunnies Snack Crackers'})
+0.006346967559943582,frozenset({'Cherry Pomegranate Greek Yogurt'})
+0.004936530324400564,frozenset({'Chicken Pot Pie'})
+0.007052186177715092,frozenset({'Chipotle Beef & Pork Realstick'})
+0.006346967559943582,frozenset({'Chipotle Chicken Burrito'})
+0.004936530324400564,frozenset({'Chocolate Peanut Butter'})
+0.004936530324400564,frozenset({'Chocolate Peppermint Stick Bar'})
+0.005641748942172073,frozenset({'Chubby Hubby Ice Cream'})
+0.011283497884344146,frozenset({'Cinnamon Crunch'})
+0.015514809590973202,frozenset({'Cinnamon Raisin Bread'})
+0.007052186177715092,frozenset({'Cinnamon Raisin English Muffins'})
+0.007757404795486601,frozenset({'Cinnamon Rolls with Icing'})
+0.010578279266572637,frozenset({'Classic Air-Puffed Vanilla Flavored Marshmallows'})
+0.031029619181946404,frozenset({'Clementines'})
+0.004936530324400564,"frozenset({'Clementines, Bag'})"
+0.004936530324400564,frozenset({'Club Soda'})
+0.009167842031029619,frozenset({'Coconut Chia Bar'})
+0.00846262341325811,frozenset({'Coconut Water'})
+0.014104372355430184,frozenset({'Cola'})
+0.007052186177715092,frozenset({'Cold Brew Coffee'})
+0.009167842031029619,"frozenset({'Country Stand Juice, Medium Pulp'})"
+0.011988716502115656,frozenset({'Cran-Apple Juice Drink'})
+0.010578279266572637,frozenset({'Creamed Chipped Beef'})
+0.014104372355430184,frozenset({'Creamy Almond Butter'})
+0.009167842031029619,frozenset({'Creamy Peanut Butter'})
+0.010578279266572637,frozenset({'Crinkle Cut French Fries'})
+0.015514809590973202,frozenset({'Crunch Chocolate Peanut Butter Granola Bar'})
+0.005641748942172073,frozenset({'Crunch Granola Bar Chocolate Chip'})
+0.004936530324400564,frozenset({'Crunch White Chocolate Macadamia Nut Granola Bars'})
+0.004936530324400564,frozenset({'Crunchy Coconut Granola Bars'})
+0.004936530324400564,"frozenset({""Crunchy Oats N' Honey Granola Bars""})"
+0.004936530324400564,frozenset({'Cucumber & Garlic  Tzatziki'})
+0.013399153737658674,frozenset({'Cucumber Kirby'})
+0.007052186177715092,frozenset({'Dairy Free Coconut Milk Blueberry Yogurt Alternative'})
+0.007052186177715092,frozenset({'Dairy Free Coconut Milk Yogurt Alternative'})
+0.02468265162200282,frozenset({'Dark & Mint Filled Chocolate Squares'})
+0.009167842031029619,frozenset({'Dark & Sea Salt Caramel Chocolate Squares'})
+0.021156558533145273,frozenset({'Dark Chocolate Minis'})
+0.006346967559943582,frozenset({'Dark Chocolate Squares With Raspberry Filling'})
+0.006346967559943582,frozenset({'Dark Red Kidney Beans No Salt Added'})
+0.022566995768688293,frozenset({'Diced Tomatoes'})
+0.006346967559943582,"frozenset({'Dressing, Jersey Sweet Onion, Calorie Free'})"
+0.007052186177715092,frozenset({'Dried Mango'})
+0.00846262341325811,frozenset({'Dried Mangos'})
+0.01904090267983075,frozenset({'Dry Roasted Almonds'})
+0.019746121297602257,frozenset({'Electrolyte Enhanced Water'})
+0.01622002820874471,frozenset({'English Seedless Cucumber'})
+0.007052186177715092,frozenset({'Enlightened Organic Raw Kombucha'})
+0.006346967559943582,frozenset({'European Cucumber'})
+0.007052186177715092,frozenset({'European Style Unsalted Butter'})
+0.005641748942172073,frozenset({'Extra Sharp White Cheddar'})
+0.009873060648801129,frozenset({'Extra Virgin Olive Oil'})
+0.007757404795486601,frozenset({'Ezekiel 4:9 Bread Organic Sprouted Whole Grain'})
+0.004936530324400564,frozenset({'Fancy Shredded Sharp Cheddar Cheese'})
+0.005641748942172073,frozenset({'Fat Free Blueberry Yogurt'})
+0.011988716502115656,frozenset({'Feta Cheese Crumbles'})
+0.005641748942172073,"frozenset({'Flat Parsley, Bunch'})"
+0.00846262341325811,frozenset({'Four Cheese Thin Crust Pizza'})
+0.004936530324400564,frozenset({'French Vanilla Creamer'})
+0.019746121297602257,frozenset({'Fresh Cauliflower'})
+0.011988716502115656,frozenset({'Frozen Organic Wild Blueberries'})
+0.009873060648801129,frozenset({'Garlic'})
+0.005641748942172073,frozenset({'Glazed Lemon Pie'})
+0.004936530324400564,frozenset({'Globe Eggplant'})
+0.004936530324400564,frozenset({'Gluteen Free Center Cut Applewood Smoked Uncured Bacon'})
+0.006346967559943582,frozenset({'Gluten Free & Dairy Free Thai Red Curry With Organic Jasmin Rice & Vegetables'})
+0.010578279266572637,frozenset({'Gluten Free Dark Chocolate Chunk Chewy with a Crunch Granola Bars'})
+0.01692524682651622,frozenset({'Gluten Free Honey Almond Granola'})
+0.007052186177715092,frozenset({'Gluten Free Mushroom Risotto Bowl'})
+0.005641748942172073,frozenset({'Gluten Free Original Granola'})
+0.007052186177715092,frozenset({'Gluten Free Quinoa Rotelle Pasta'})
+0.011988716502115656,frozenset({'Gluten Free Sliced Mountain White Bread'})
+0.007052186177715092,frozenset({'Gogo Squeez Organic Apple Strawberry Applesauce on the Go'})
+0.006346967559943582,frozenset({'Gold Potato'})
+0.007757404795486601,frozenset({'Gourmet Pizza Nut-Free Pesto Gluten Free'})
+0.021156558533145273,frozenset({'Grade A Extra Large Eggs'})
+0.014809590973201692,frozenset({'Granny Smith Apples'})
+0.01622002820874471,frozenset({'Grape White/Green Seedless'})
+0.009873060648801129,frozenset({'Grapefruit Sparkling Water'})
+0.015514809590973202,frozenset({'Grated Parmesan'})
+0.009167842031029619,frozenset({'Green Beans'})
+0.009167842031029619,frozenset({'Green Bell Pepper'})
+0.007052186177715092,frozenset({'Green Onions'})
+0.004936530324400564,frozenset({'Ground Turkey Breast'})
+0.004936530324400564,frozenset({'Guava Goddess Organic Kambucha'})
+0.027503526093088856,frozenset({'Half & Half'})
+0.014809590973201692,frozenset({'Hard Boiled Eggs'})
+0.004936530324400564,frozenset({'Hass Avocado'})
+0.014104372355430184,frozenset({'Hass Avocados'})
+0.005641748942172073,frozenset({'Hazelnut Bite Size Wafer Cookies'})
+0.011988716502115656,"frozenset({'Healthy Grains Granola Bar, Vanilla Blueberry'})"
+0.004936530324400564,frozenset({'Heavy Whipping Cream'})
+0.004936530324400564,frozenset({'Hemp Lavender Pure Castile Soap'})
+0.009167842031029619,frozenset({'Hibiscus Organic Raw Kombucha'})
+0.004936530324400564,frozenset({'Honey Almond Flax Chewy Granola Bars'})
+0.007757404795486601,frozenset({'Honey Buns'})
+0.01622002820874471,frozenset({'Honeycrisp Apple'})
+0.007052186177715092,frozenset({'I Heart Baby Kale'})
+0.004936530324400564,frozenset({'Imported Mineral Water'})
+0.00846262341325811,frozenset({'Italian Extra Virgin Olive Oil'})
+0.004936530324400564,frozenset({'Jaipur Karhi Organic Potato Dumplings in Spicy Buttermilk'})
+0.00846262341325811,frozenset({'Jalapeno Pepper'})
+0.00846262341325811,frozenset({'Kale Greens'})
+0.007757404795486601,frozenset({'Kitchen Cheese Enchilada'})
+0.006346967559943582,frozenset({'Kombucha  Bilberry No. 9'})
+0.010578279266572637,frozenset({'Krinkle Cut Salt & Fresh Ground Pepper Potato Chips'})
+0.009167842031029619,frozenset({'Lactose Free Fat Free Milk'})
+0.005641748942172073,frozenset({'Large Alfresco Eggs'})
+0.030324400564174896,frozenset({'Large Lemon'})
+0.006346967559943582,frozenset({'Lemon Master Cleanse Fruit Juice Drink'})
+0.011988716502115656,frozenset({'Lemon Sparkling Water'})
+0.005641748942172073,frozenset({'Lemon Verbena Dish Soap'})
+0.006346967559943582,frozenset({'Lettuce Medley'})
+0.01763046544428773,frozenset({'Light Oaked Chardonnay'})
+0.007757404795486601,frozenset({'Light and Lean Quinoa Black Beans with Butternut Squash and Chard'})
+0.004936530324400564,frozenset({'Lime'})
+0.011283497884344146,frozenset({'Lime Sparkling Water'})
+0.03173483779971791,frozenset({'Limes'})
+0.009873060648801129,frozenset({'Low Fat Plain Yogurt'})
+0.009873060648801129,frozenset({'Macaroni & Cheese'})
+0.004936530324400564,frozenset({'Mango Chunks'})
+0.01622002820874471,frozenset({'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})
+0.00846262341325811,frozenset({'Medium Navel Orange'})
+0.00846262341325811,frozenset({'Mexican Coffee'})
+0.010578279266572637,frozenset({'Michigan Organic Kale'})
+0.012693935119887164,"frozenset({'Milk, Organic, Vitamin D'})"
+0.011283497884344146,"frozenset({'Milk, Vitamin D'})"
+0.011988716502115656,frozenset({'Mini Original Babybel Cheese'})
+0.006346967559943582,frozenset({'Mint'})
+0.004936530324400564,frozenset({'Mint Chip Ice Cream'})
+0.005641748942172073,frozenset({'Mixed Vegetables'})
+0.004936530324400564,frozenset({'Mozzarella String Cheese'})
+0.03737658674188998,frozenset({'Natural Artesian Bottled Water'})
+0.015514809590973202,frozenset({'Natural Artesian Water'})
+0.01622002820874471,frozenset({'Natural Artisan Water'})
+0.004936530324400564,frozenset({'Natural Chicken & Sage Breakfast Sausage'})
+0.023977433004231313,frozenset({'Natural Lime Flavor Sparkling Mineral Water'})
+0.00846262341325811,frozenset({'Natural Mint Gum'})
+0.004936530324400564,frozenset({'Naturally Hickory Smoked Thick Cut Bacon'})
+0.004936530324400564,frozenset({'New Orleans Iced Coffee'})
+0.004936530324400564,frozenset({'No Calorie Sweetener Packets'})
+0.010578279266572637,frozenset({'No Salt Added Black Beans'})
+0.011988716502115656,frozenset({'Oatmeal Crème Pies'})
+0.011283497884344146,frozenset({'Oatmeal Square Banana Dark Chocolate'})
+0.007757404795486601,frozenset({'Oats & Honey Gluten Free Granola'})
+0.004936530324400564,frozenset({'Oral Electrolyte Solution Mixed Fruit'})
+0.005641748942172073,frozenset({'Orange Bell Pepper'})
+0.004936530324400564,frozenset({'Orange Soda'})
+0.014809590973201692,frozenset({'Orange Sparkling Water'})
+0.009167842031029619,frozenset({'Organic & Raw Strawberry Serenity Kombucha'})
+0.005641748942172073,frozenset({'Organic Air Chilled Whole Chicken'})
+0.004936530324400564,frozenset({'Organic Apple Slices'})
+0.03526093088857546,frozenset({'Organic Avocado'})
+0.01692524682651622,frozenset({'Organic Baby Arugula'})
+0.006346967559943582,frozenset({'Organic Baby Broccoli'})
+0.009167842031029619,frozenset({'Organic Baby Carrots'})
+0.005641748942172073,frozenset({'Organic Baby Rainbow Carrots'})
+0.06629055007052186,frozenset({'Organic Baby Spinach'})
+0.00846262341325811,frozenset({'Organic Baby Spinach Salad'})
+0.011988716502115656,frozenset({'Organic Bagged Carrots'})
+0.006346967559943582,frozenset({'Organic Basil'})
+0.009873060648801129,"frozenset({""Organic Bernie's Farm Fruit Snacks strawberry, raspberry, & orange""})"
+0.011988716502115656,frozenset({'Organic Black Beans'})
+0.01692524682651622,frozenset({'Organic Blackberries'})
+0.028913963328631876,frozenset({'Organic Blueberries'})
+0.007052186177715092,frozenset({'Organic Bosc Pear'})
+0.005641748942172073,frozenset({'Organic Bread with 21 Whole Grains'})
+0.011988716502115656,frozenset({'Organic Broccoli'})
+0.004936530324400564,frozenset({'Organic Broccoli Florets'})
+0.00846262341325811,frozenset({'Organic Brown Rice Crisps Cereal'})
+0.004936530324400564,frozenset({'Organic Bunch Beets'})
+0.009167842031029619,frozenset({'Organic Bunny Fruit Tropical Treat Fruit Snacks'})
+0.005641748942172073,frozenset({'Organic Butternut Squash'})
+0.007052186177715092,frozenset({'Organic Cannellini Beans'})
+0.012693935119887164,frozenset({'Organic Carrot Bunch'})
+0.005641748942172073,frozenset({'Organic Cauliflower'})
+0.005641748942172073,frozenset({'Organic Chicken & Apple Sausage'})
+0.004936530324400564,frozenset({'Organic Chicken Bone Broth'})
+0.007757404795486601,frozenset({'Organic Chunky Vegetable Soup'})
+0.011988716502115656,frozenset({'Organic Cilantro'})
+0.007052186177715092,frozenset({'Organic Coconut Milk'})
+0.005641748942172073,frozenset({'Organic Cottage Cheese Blueberry Acai Chia'})
+0.010578279266572637,frozenset({'Organic Creamy Peanut Butter'})
+0.005641748942172073,frozenset({'Organic Cripps Pink Apples'})
+0.021861777150916785,frozenset({'Organic Cucumber'})
+0.011988716502115656,"frozenset({""Organic D'Anjou Pears""})"
+0.004936530324400564,frozenset({'Organic Dark Chocolate Peanut Butter Cups'})
+0.006346967559943582,frozenset({'Organic Dark Sweet Cherries'})
+0.006346967559943582,frozenset({'Organic Dried Granny Apple Chips'})
+0.014809590973201692,frozenset({'Organic Extra Firm Tofu'})
+0.005641748942172073,frozenset({'Organic Extra Large Brown Eggs'})
+0.00846262341325811,frozenset({'Organic Extra Large Grade AA Brown Eggs'})
+0.006346967559943582,frozenset({'Organic Frosted Flakes Cereal'})
+0.01692524682651622,frozenset({'Organic Fuji Apple'})
+0.01622002820874471,frozenset({'Organic Gala Apples'})
+0.014104372355430184,frozenset({'Organic Garbanzo Beans'})
+0.04866008462623413,frozenset({'Organic Garlic'})
+0.007757404795486601,frozenset({'Organic Garnet Sweet Potato (Yam)'})
+0.014104372355430184,frozenset({'Organic Ginger Root'})
+0.014104372355430184,frozenset({'Organic Graham Crunch Cereal'})
+0.010578279266572637,frozenset({'Organic Granny Smith Apple'})
+0.01622002820874471,frozenset({'Organic Grape Tomatoes'})
+0.005641748942172073,frozenset({'Organic Green Lentils'})
+0.004936530324400564,frozenset({'Organic Green Seedless Grapes'})
+0.0232722143864598,frozenset({'Organic Half & Half'})
+0.05923836389280677,frozenset({'Organic Hass Avocado'})
+0.013399153737658674,frozenset({'Organic Heavy Whipping Cream'})
+0.031029619181946404,frozenset({'Organic Heritage Flakes Cereal'})
+0.006346967559943582,frozenset({'Organic Honey Sweet Whole Wheat Bread'})
+0.004936530324400564,frozenset({'Organic Iceberg Lettuce'})
+0.023977433004231313,frozenset({'Organic Italian Parsley Bunch'})
+0.009167842031029619,frozenset({'Organic Jalapeno Pepper'})
+0.005641748942172073,frozenset({'Organic Jasmine Rice'})
+0.007052186177715092,frozenset({'Organic Kiwi'})
+0.009873060648801129,frozenset({'Organic Lacinato (Dinosaur) Kale'})
+0.011988716502115656,frozenset({'Organic Large Brown Grade AA Cage Free Eggs'})
+0.011988716502115656,frozenset({'Organic Large Extra Fancy Fuji Apple'})
+0.006346967559943582,frozenset({'Organic Large Grade A Brown Eggs'})
+0.007757404795486601,frozenset({'Organic Large Grade AA Brown Eggs'})
+0.02538787023977433,frozenset({'Organic Leek'})
+0.019746121297602257,frozenset({'Organic Lemon'})
+0.004936530324400564,frozenset({'Organic Low Sodium Chicken Broth'})
+0.009167842031029619,frozenset({'Organic Lowfat 1% Milk'})
+0.005641748942172073,frozenset({'Organic Macaroni Shells & Real Aged Cheddar'})
+0.007052186177715092,frozenset({'Organic Medjool Dates'})
+0.021861777150916785,frozenset({'Organic Milk'})
+0.006346967559943582,frozenset({'Organic Mint'})
+0.004936530324400564,frozenset({'Organic Old Fashioned Rolled Oats'})
+0.009873060648801129,frozenset({'Organic Peeled Whole Baby Carrots'})
+0.020451339915373765,frozenset({'Organic Pink Lemonade Bunny Fruit Snacks'})
+0.009873060648801129,frozenset({'Organic Pinto Beans'})
+0.00846262341325811,frozenset({'Organic Plain Whole Milk Yogurt'})
+0.004936530324400564,frozenset({'Organic Popcorn'})
+0.014809590973201692,frozenset({'Organic Raspberries'})
+0.007052186177715092,frozenset({'Organic Raw Kombucha Gingerade'})
+0.004936530324400564,frozenset({'Organic Red Cabbage'})
+0.006346967559943582,frozenset({'Organic Red Delicious Apple'})
+0.004936530324400564,frozenset({'Organic Red Grapes'})
+0.004936530324400564,frozenset({'Organic Red On the Vine Tomato'})
+0.02679830747531735,frozenset({'Organic Red Onion'})
+0.004936530324400564,"frozenset({'Organic Red Radish, Bunch'})"
+0.006346967559943582,frozenset({'Organic Reduced Fat 2% Milk'})
+0.015514809590973202,frozenset({'Organic Reduced Fat Milk'})
+0.004936530324400564,frozenset({'Organic Refined Coconut Oil'})
+0.006346967559943582,frozenset({'Organic Roasted Sliced Chicken Breast'})
+0.009873060648801129,frozenset({'Organic Roasted Turkey Breast'})
+0.01622002820874471,frozenset({'Organic Roma Tomato'})
+0.00846262341325811,frozenset({'Organic Romaine Lettuce'})
+0.018335684062059238,frozenset({'Organic Russet Potato'})
+0.006346967559943582,frozenset({'Organic Salted Butter'})
+0.007052186177715092,frozenset({'Organic Seasoned Yukon Select Potatoes Hashed Browns'})
+0.006346967559943582,frozenset({'Organic Shells And White Cheddar'})
+0.005641748942172073,frozenset({'Organic Shredded Carrots'})
+0.004936530324400564,frozenset({'Organic Shredded Mozzarella'})
+0.010578279266572637,frozenset({'Organic Sliced Peaches'})
+0.014104372355430184,frozenset({'Organic Small Bunch Celery'})
+0.005641748942172073,frozenset({'Organic Spring Mix Salad'})
+0.006346967559943582,frozenset({'Organic Sticks Low Moisture Part Skim Mozzarella String Cheese'})
+0.05500705218617771,frozenset({'Organic Strawberries'})
+0.005641748942172073,frozenset({'Organic Strawberry Chia Lowfat 2% Cottage Cheese'})
+0.005641748942172073,frozenset({'Organic String Cheese'})
+0.014809590973201692,frozenset({'Organic Summer Strawberry Bunny Fruit Snacks'})
+0.004936530324400564,frozenset({'Organic Sunday Bacon'})
+0.004936530324400564,frozenset({'Organic Tahini'})
+0.011988716502115656,frozenset({'Organic Thompson Seedless Raisins'})
+0.02538787023977433,frozenset({'Organic Tomato Cluster'})
+0.006346967559943582,frozenset({'Organic Tomato Paste'})
+0.004936530324400564,frozenset({'Organic Unsalted Butter'})
+0.022566995768688293,frozenset({'Organic Unsweetened Almond Milk'})
+0.004936530324400564,frozenset({'Organic Vegetable Broth'})
+0.009167842031029619,frozenset({'Organic Vegetarian Mild Refried Beans With Green Chiles'})
+0.005641748942172073,frozenset({'Organic Whole Cashews'})
+0.010578279266572637,frozenset({'Organic Whole Milk'})
+0.009167842031029619,frozenset({'Organic Whole Strawberries'})
+0.014809590973201692,frozenset({'Organic Whole String Cheese'})
+0.004936530324400564,frozenset({'Organic Yams'})
+0.03385049365303244,frozenset({'Organic Yellow Onion'})
+0.004936530324400564,frozenset({'Organic Yellow Squash'})
+0.04372355430183357,frozenset({'Organic Zucchini'})
+0.005641748942172073,frozenset({'Original 0 Calorie Sweetener Packets 115 Count'})
+0.014809590973201692,frozenset({'Original Beef Jerky'})
+0.007052186177715092,frozenset({'Original Fresh Stack Crackers'})
+0.01904090267983075,frozenset({'Original Hummus'})
+0.006346967559943582,frozenset({'Original No Pulp 100% Florida Orange Juice'})
+0.004936530324400564,frozenset({'Original Pure Creamy Almond Milk'})
+0.006346967559943582,frozenset({'Original Whole Fat Lactose Free Milk'})
+0.004936530324400564,frozenset({'Panda Puffs Peanut Butter Cereal'})
+0.007052186177715092,frozenset({'Parsley'})
+0.007052186177715092,"frozenset({'Parsley, Italian (Flat), New England Grown'})"
+0.006346967559943582,frozenset({'Passionberry Bliss Kombucha Drink'})
+0.009873060648801129,frozenset({'Peach Pear Flavored Sparkling Water'})
+0.01692524682651622,frozenset({'Peach-Pear Sparkling Water'})
+0.007757404795486601,frozenset({'Penne Rigate'})
+0.00846262341325811,frozenset({'Pesto Tortellini  Bowls'})
+0.013399153737658674,frozenset({'Petit Suisse Fruit'})
+0.005641748942172073,frozenset({'Pineapple Chunks'})
+0.006346967559943582,frozenset({'Pistachios'})
+0.007052186177715092,frozenset({'Pita Chips Simply Naked'})
+0.004936530324400564,frozenset({'Plain Pre-Sliced Bagels'})
+0.006346967559943582,frozenset({'Popped Dark Chocolate with Sea Salt Granola Bar'})
+0.006346967559943582,frozenset({'Premium Indian Tonic Water'})
+0.006346967559943582,frozenset({'Premium Pure Cane Granulated Sugar'})
+0.00846262341325811,frozenset({'Pretzel Crisps Original Deli Style Pretzel Crackers'})
+0.02468265162200282,frozenset({'Pure Coconut Water'})
+0.005641748942172073,frozenset({'Pure Irish Butter'})
+0.004936530324400564,frozenset({'Pure Life Purified Water'})
+0.020451339915373765,frozenset({'Pure Sparkling Water'})
+0.015514809590973202,frozenset({'Raspberries'})
+0.005641748942172073,frozenset({'Raspberry Cereal'})
+0.006346967559943582,frozenset({'Raspberry Yoghurt'})
+0.014809590973201692,frozenset({'Red Onion'})
+0.005641748942172073,frozenset({'Red Potatoes'})
+0.019746121297602257,frozenset({'Red Raspberries'})
+0.006346967559943582,frozenset({'Red Vine Tomato'})
+0.02468265162200282,frozenset({'Reduced Fat Milk'})
+0.004936530324400564,frozenset({'Roasted & Salted Almonds'})
+0.011988716502115656,frozenset({'Roma Tomato'})
+0.011988716502115656,frozenset({'Russet Potato'})
+0.014809590973201692,frozenset({'Salted Butter'})
+0.009167842031029619,frozenset({'Sea Salt & Vinegar Potato Chips'})
+0.004936530324400564,frozenset({'Sea Salt Caramel Gelato'})
+0.015514809590973202,frozenset({'Sea Salt Potato Chips'})
+0.006346967559943582,frozenset({'Sea Salt Soiree Intense Dark Chocolate Squares'})
+0.023977433004231313,frozenset({'Seedless Red Grapes'})
+0.006346967559943582,frozenset({'Semi-Sweet Mini Chocolate Chips'})
+0.007052186177715092,frozenset({'Shallot'})
+0.007757404795486601,frozenset({'Sharp Cheddar Cheese'})
+0.007757404795486601,frozenset({'Shelled Pistachios'})
+0.006346967559943582,frozenset({'Shredded Mild Cheddar Cheese'})
+0.005641748942172073,frozenset({'Shredded Mozzarella'})
+0.006346967559943582,frozenset({'Shredded Parmesan'})
+0.005641748942172073,frozenset({'Shredded Sharp Cheddar Cheese'})
+0.004936530324400564,frozenset({'Sliced Baby Bella Mushrooms'})
+0.004936530324400564,frozenset({'Sliced Sourdough Bread'})
+0.005641748942172073,frozenset({'Sliced Wheat Bread'})
+0.014104372355430184,frozenset({'Small Hass Avocado'})
+0.014104372355430184,frozenset({'Smartwater'})
+0.005641748942172073,frozenset({'Smokehouse Almonds'})
+0.05218617771509168,frozenset({'Soda'})
+0.004936530324400564,frozenset({'Soft Potato Bread'})
+0.006346967559943582,frozenset({'Sour Cream'})
+0.00846262341325811,frozenset({'Sourdough Bread'})
+0.007052186177715092,frozenset({'Spaghetti'})
+0.007052186177715092,frozenset({'Sparkling Blackberry Juice'})
+0.007757404795486601,frozenset({'Sparkling Clementine Juice'})
+0.005641748942172073,frozenset({'Sparkling Grapefruit'})
+0.00846262341325811,frozenset({'Sparkling Lemon Water'})
+0.004936530324400564,frozenset({'Sparkling Mineral Water'})
+0.005641748942172073,frozenset({'Sparkling Natural Mineral Water'})
+0.004936530324400564,frozenset({'Sparkling Water'})
+0.021861777150916785,frozenset({'Sparkling Water Grapefruit'})
+0.013399153737658674,"frozenset({'Sparkling Water, Natural Mango Essenced'})"
+0.005641748942172073,frozenset({'Spinach'})
+0.007757404795486601,frozenset({'Sprouted Multi-Grain Bread'})
+0.005641748942172073,frozenset({'Squares Milk & Caramel Chocolate'})
+0.03173483779971791,frozenset({'Strawberries'})
+0.01622002820874471,frozenset({'Strawberry Preserves'})
+0.007052186177715092,frozenset({'Super Greens Salad'})
+0.005641748942172073,"frozenset({'Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale'})"
+0.004936530324400564,frozenset({'Supergreens!'})
+0.004936530324400564,frozenset({'Sweet & Salty Nut Almond Granola Bars'})
+0.012693935119887164,frozenset({'Sweet Onion'})
+0.007757404795486601,frozenset({'Synergy Organic & Raw Cosmic Cranberry'})
+0.009167842031029619,frozenset({'Synergy Organic Kombucha Gingerberry'})
+0.005641748942172073,frozenset({'Telera Rolls'})
+0.007052186177715092,frozenset({'Teriyaki Turkey Jerky'})
+0.004936530324400564,frozenset({'Tilapia Filet'})
+0.00846262341325811,frozenset({'Toasted Coconut Chips Original Recipe'})
+0.006346967559943582,frozenset({'Tofu Miso Ramen'})
+0.005641748942172073,frozenset({'Tomato Paste'})
+0.006346967559943582,frozenset({'Tomato Yellow Cherry'})
+0.006346967559943582,frozenset({'Total 0% Greek Yogurt'})
+0.012693935119887164,frozenset({'Total 0% Nonfat Greek Yogurt'})
+0.005641748942172073,frozenset({'Total 0% Nonfat Plain Greek Yogurt'})
+0.011988716502115656,frozenset({'Total 0% Raspberry Yogurt'})
+0.015514809590973202,frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey'})
+0.009873060648801129,frozenset({'Total 2% Greek Strained Yogurt with Cherry 5.3 oz'})
+0.014104372355430184,frozenset({'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})
+0.015514809590973202,frozenset({'Total 2% Lowfat Greek Strained Yogurt with Peach'})
+0.030324400564174896,frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt'})
+0.004936530324400564,frozenset({'Total with Strawberry Yogurt'})
+0.012693935119887164,frozenset({'Trail Mix'})
+0.004936530324400564,frozenset({'Trail Mix Fruit & Nut Chewy Granola Bars'})
+0.00846262341325811,frozenset({'Trilogy Kombucha Drink'})
+0.012693935119887164,frozenset({'Twilight Delight 72% Cacao Intense Dark Squares'})
+0.005641748942172073,frozenset({'Unbleached All-Purpose Flour'})
+0.007757404795486601,frozenset({'Uncured Genoa Salami'})
+0.019746121297602257,frozenset({'Uncured Hickory Smoked Sunday Bacon'})
+0.007757404795486601,frozenset({'Uncured Slow Cooked Ham'})
+0.012693935119887164,frozenset({'Unsalted Butter'})
+0.007757404795486601,frozenset({'Unsalted Sweet Butter'})
+0.018335684062059238,frozenset({'Unsweetened Almondmilk'})
+0.007052186177715092,frozenset({'Unsweetened Coconut Milk Beverage'})
+0.019746121297602257,frozenset({'Unsweetened Original Almond Breeze Almond Milk'})
+0.015514809590973202,frozenset({'Unsweetened Premium Iced Tea'})
+0.005641748942172073,frozenset({'Unsweetened Vanilla Almond Milk'})
+0.005641748942172073,frozenset({'Vanilla Almond Breeze'})
+0.009873060648801129,frozenset({'Vanilla Coffee Concentrate'})
+0.007757404795486601,frozenset({'Vanilla Skyr Nonfat Yogurt'})
+0.007757404795486601,frozenset({'Vanilla Unsweetened Almond Milk'})
+0.004936530324400564,frozenset({'Wheat Gluten Free Waffles'})
+0.01692524682651622,frozenset({'Whipped Cream Cheese'})
+0.013399153737658674,frozenset({'Whole Milk'})
+0.005641748942172073,frozenset({'Whole Milk Ricotta Cheese'})
+0.00846262341325811,frozenset({'Whole Vitamin D Milk'})
+0.006346967559943582,frozenset({'Whole Wheat Pita Bread Loaves'})
+0.007052186177715092,frozenset({'Wild Albacore Tuna No Salt Added'})
+0.007757404795486601,frozenset({'Wild Blueberry Preserves'})
+0.004936530324400564,frozenset({'World Cuisine Certified Halal Chicken Tikka Masala With Basmati Rice'})
+0.01622002820874471,frozenset({'Yellow Onions'})
+0.005641748942172073,frozenset({'Yobaby Organic Plain Yogurt'})
+0.004936530324400564,frozenset({'Yoghurt Blueberry'})
+0.004936530324400564,"frozenset({'Yogurt, Lowfat, Strawberry'})"
+0.013399153737658674,frozenset({'Zero Calorie Cola'})
+0.004936530324400564,frozenset({'smartwater® Electrolyte Enhanced Water'})
+0.006346967559943582,"frozenset({'0% Greek Strained Yogurt', 'Apples'})"
+0.007052186177715092,"frozenset({'0% Greek Strained Yogurt', 'Bag of Organic Bananas'})"
+0.006346967559943582,"frozenset({'0% Greek Strained Yogurt', 'Soda'})"
+0.007757404795486601,"frozenset({'100% Premium Select Not From Concentrate Pure Prune Juice', 'Natural Artesian Bottled Water'})"
+0.004936530324400564,"frozenset({'100% Premium Select Not From Concentrate Pure Prune Juice', 'Reduced Fat Milk'})"
+0.004936530324400564,"frozenset({'1500 Pale Ale', 'Jaipur Karhi Organic Potato Dumplings in Spicy Buttermilk'})"
+0.00846262341325811,"frozenset({'80  Vodka Holiday Edition', 'Jalapeno Pepper'})"
+0.005641748942172073,"frozenset({'80  Vodka Holiday Edition', 'Mixed Vegetables'})"
+0.004936530324400564,"frozenset({'Lactose Free Fat Free Milk', '85% Lean Ground Beef'})"
+0.005641748942172073,"frozenset({'Mexican Coffee', '85% Lean Ground Beef'})"
+0.004936530324400564,"frozenset({'Vanilla Coffee Concentrate', '85% Lean Ground Beef'})"
+0.006346967559943582,"frozenset({'Oatmeal Square Banana Dark Chocolate', 'Annie Peely Fruit 4.5 Z'})"
+0.004936530324400564,"frozenset({'Twilight Delight 72% Cacao Intense Dark Squares', 'Annie Peely Fruit 4.5 Z'})"
+0.005641748942172073,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Annie Peely Fruit 4.5 Z'})"
+0.006346967559943582,"frozenset({""Annie's Bunny Fruit Snacks Variety"", 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.007052186177715092,"frozenset({'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety""})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', ""Annie's Bunny Fruit Snacks Variety""})"
+0.006346967559943582,"frozenset({""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water'})"
+0.006346967559943582,"frozenset({""Annie's Bunny Fruit Snacks Variety"", 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Antimo Caputo Flour', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Antimo Caputo Flour'})"
+0.004936530324400564,"frozenset({'Antimo Caputo Flour', 'Hazelnut Bite Size Wafer Cookies'})"
+0.006346967559943582,"frozenset({'Petit Suisse Fruit', 'Antimo Caputo Flour'})"
+0.004936530324400564,"frozenset({'Antimo Caputo Flour', 'Salted Butter'})"
+0.004936530324400564,"frozenset({'Strawberry Preserves', 'Antimo Caputo Flour'})"
+0.010578279266572637,"frozenset({'Apple Honeycrisp Organic', 'Bag of Organic Bananas'})"
+0.006346967559943582,"frozenset({'Organic Hass Avocado', 'Apple Honeycrisp Organic'})"
+0.004936530324400564,"frozenset({'Organic Milk', 'Apple Honeycrisp Organic'})"
+0.004936530324400564,"frozenset({'Organic Plain Whole Milk Yogurt', 'Apple Honeycrisp Organic'})"
+0.007052186177715092,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Apple Honeycrisp Organic'})"
+0.011988716502115656,"frozenset({'Apples', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Apples', 'Clementines'})"
+0.004936530324400564,"frozenset({'Creamy Almond Butter', 'Apples'})"
+0.004936530324400564,"frozenset({'Organic Blueberries', 'Apples'})"
+0.007052186177715092,"frozenset({'Apples', 'Organic Half & Half'})"
+0.004936530324400564,"frozenset({'Raspberries', 'Apples'})"
+0.006346967559943582,"frozenset({'Soda', 'Apples'})"
+0.005641748942172073,"frozenset({'Trail Mix', 'Apples'})"
+0.004936530324400564,"frozenset({'Asparagus', 'Banana'})"
+0.004936530324400564,"frozenset({'Asparagus', 'Strawberries'})"
+0.007757404795486601,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Authentic French Brioche'})"
+0.00846262341325811,"frozenset({'Bunny-Luv Fresh Organic Carrots', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Gogo Squeez Organic Apple Strawberry Applesauce on the Go', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Hazelnut Bite Size Wafer Cookies', 'Authentic French Brioche'})"
+0.006346967559943582,"frozenset({'Lettuce Medley', 'Authentic French Brioche'})"
+0.005641748942172073,"frozenset({'Organic Frosted Flakes Cereal', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Organic Hass Avocado', 'Authentic French Brioche'})"
+0.007757404795486601,"frozenset({'Organic Heavy Whipping Cream', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Organic Reduced Fat 2% Milk', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Organic Reduced Fat Milk', 'Authentic French Brioche'})"
+0.006346967559943582,"frozenset({'Organic Zucchini', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Parsley', 'Authentic French Brioche'})"
+0.012693935119887164,"frozenset({'Petit Suisse Fruit', 'Authentic French Brioche'})"
+0.00846262341325811,"frozenset({'Salted Butter', 'Authentic French Brioche'})"
+0.00846262341325811,"frozenset({'Strawberry Preserves', 'Authentic French Brioche'})"
+0.007757404795486601,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Authentic French Brioche'})"
+0.007052186177715092,"frozenset({'Wild Blueberry Preserves', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Carrots', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Cinnamon Rolls with Icing', 'Bag of Organic Bananas'})"
+0.007052186177715092,"frozenset({'Clementines', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Creamy Almond Butter', 'Bag of Organic Bananas'})"
+0.007052186177715092,"frozenset({'Dairy Free Coconut Milk Blueberry Yogurt Alternative', 'Bag of Organic Bananas'})"
+0.007052186177715092,"frozenset({'Bag of Organic Bananas', 'Dairy Free Coconut Milk Yogurt Alternative'})"
+0.005641748942172073,"frozenset({'English Seedless Cucumber', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Bag of Organic Bananas', 'Fresh Cauliflower'})"
+0.005641748942172073,"frozenset({'Frozen Organic Wild Blueberries', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Gluten Free Mushroom Risotto Bowl', 'Bag of Organic Bananas'})"
+0.006346967559943582,"frozenset({'Gluten Free Sliced Mountain White Bread', 'Bag of Organic Bananas'})"
+0.007757404795486601,"frozenset({'Medium Navel Orange', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Mini Original Babybel Cheese', 'Bag of Organic Bananas'})"
+0.009167842031029619,"frozenset({'Natural Artesian Bottled Water', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Organic Baby Broccoli', 'Bag of Organic Bananas'})"
+0.014809590973201692,"frozenset({'Organic Baby Spinach', 'Bag of Organic Bananas'})"
+0.00846262341325811,"frozenset({'Organic Blueberries', 'Bag of Organic Bananas'})"
+0.005641748942172073,"frozenset({""Organic D'Anjou Pears"", 'Bag of Organic Bananas'})"
+0.005641748942172073,"frozenset({'Organic Extra Large Grade AA Brown Eggs', 'Bag of Organic Bananas'})"
+0.007757404795486601,"frozenset({'Organic Gala Apples', 'Bag of Organic Bananas'})"
+0.011988716502115656,"frozenset({'Organic Garlic', 'Bag of Organic Bananas'})"
+0.005641748942172073,"frozenset({'Organic Granny Smith Apple', 'Bag of Organic Bananas'})"
+0.011283497884344146,"frozenset({'Organic Half & Half', 'Bag of Organic Bananas'})"
+0.020451339915373765,"frozenset({'Organic Hass Avocado', 'Bag of Organic Bananas'})"
+0.005641748942172073,"frozenset({'Organic Italian Parsley Bunch', 'Bag of Organic Bananas'})"
+0.00846262341325811,"frozenset({'Organic Leek', 'Bag of Organic Bananas'})"
+0.009873060648801129,"frozenset({'Organic Lemon', 'Bag of Organic Bananas'})"
+0.014104372355430184,"frozenset({'Organic Milk', 'Bag of Organic Bananas'})"
+0.005641748942172073,"frozenset({'Organic Raspberries', 'Bag of Organic Bananas'})"
+0.005641748942172073,"frozenset({'Organic Red Onion', 'Bag of Organic Bananas'})"
+0.006346967559943582,"frozenset({'Organic Russet Potato', 'Bag of Organic Bananas'})"
+0.018335684062059238,"frozenset({'Organic Strawberries', 'Bag of Organic Bananas'})"
+0.009873060648801129,"frozenset({'Organic Tomato Cluster', 'Bag of Organic Bananas'})"
+0.007052186177715092,"frozenset({'Organic Unsweetened Almond Milk', 'Bag of Organic Bananas'})"
+0.007757404795486601,"frozenset({'Organic Whole String Cheese', 'Bag of Organic Bananas'})"
+0.00846262341325811,"frozenset({'Organic Yellow Onion', 'Bag of Organic Bananas'})"
+0.012693935119887164,"frozenset({'Organic Zucchini', 'Bag of Organic Bananas'})"
+0.005641748942172073,"frozenset({'Bag of Organic Bananas', 'Pesto Tortellini  Bowls'})"
+0.004936530324400564,"frozenset({'Raspberries', 'Bag of Organic Bananas'})"
+0.007757404795486601,"frozenset({'Sea Salt Potato Chips', 'Bag of Organic Bananas'})"
+0.009167842031029619,"frozenset({'Seedless Red Grapes', 'Bag of Organic Bananas'})"
+0.014809590973201692,"frozenset({'Soda', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Bag of Organic Bananas', 'Sprouted Multi-Grain Bread'})"
+0.004936530324400564,"frozenset({'Sweet Onion', 'Bag of Organic Bananas'})"
+0.007052186177715092,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Trail Mix', 'Bag of Organic Bananas'})"
+0.010578279266572637,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Bag of Organic Bananas'})"
+0.007757404795486601,"frozenset({'Bag of Organic Bananas', 'Unsweetened Almondmilk'})"
+0.005641748942172073,"frozenset({'Vanilla Skyr Nonfat Yogurt', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Blueberries', 'Banana'})"
+0.005641748942172073,"frozenset({'Boneless Skinless Chicken Breasts', 'Banana'})"
+0.007757404795486601,"frozenset({'Four Cheese Thin Crust Pizza', 'Banana'})"
+0.004936530324400564,"frozenset({'Banana', 'Grape White/Green Seedless'})"
+0.004936530324400564,"frozenset({'Honeycrisp Apple', 'Banana'})"
+0.005641748942172073,"frozenset({'Krinkle Cut Salt & Fresh Ground Pepper Potato Chips', 'Banana'})"
+0.007757404795486601,"frozenset({'Large Lemon', 'Banana'})"
+0.005641748942172073,"frozenset({'Limes', 'Banana'})"
+0.005641748942172073,"frozenset({'Low Fat Plain Yogurt', 'Banana'})"
+0.006346967559943582,"frozenset({'Organic Avocado', 'Banana'})"
+0.009167842031029619,"frozenset({'Organic Baby Spinach', 'Banana'})"
+0.004936530324400564,"frozenset({'Organic Blueberries', 'Banana'})"
+0.007757404795486601,"frozenset({'Banana', 'Organic Fuji Apple'})"
+0.004936530324400564,"frozenset({'Organic Garlic', 'Banana'})"
+0.004936530324400564,"frozenset({'Organic Hass Avocado', 'Banana'})"
+0.005641748942172073,"frozenset({'Organic Sliced Peaches', 'Banana'})"
+0.009167842031029619,"frozenset({'Organic Strawberries', 'Banana'})"
+0.004936530324400564,"frozenset({'Peach Pear Flavored Sparkling Water', 'Banana'})"
+0.004936530324400564,"frozenset({'Pineapple Chunks', 'Banana'})"
+0.007052186177715092,"frozenset({'Red Raspberries', 'Banana'})"
+0.004936530324400564,"frozenset({'Small Hass Avocado', 'Banana'})"
+0.007757404795486601,"frozenset({'Strawberries', 'Banana'})"
+0.004936530324400564,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Banana'})"
+0.006346967559943582,"frozenset({'Whipped Cream Cheese', 'Banana'})"
+0.005641748942172073,"frozenset({'Bars Peanut Butter', 'Caramel Cone Ice Cream'})"
+0.007757404795486601,"frozenset({'Cran-Apple Juice Drink', 'Bars Peanut Butter'})"
+0.007052186177715092,"frozenset({'Bars Peanut Butter', 'Creamed Chipped Beef'})"
+0.007052186177715092,"frozenset({'Bars Peanut Butter', 'Honey Buns'})"
+0.007052186177715092,"frozenset({'Bars Peanut Butter', 'Oatmeal Crème Pies'})"
+0.005641748942172073,"frozenset({'Raspberry Yoghurt', 'Blueberry Yoghurt'})"
+0.005641748942172073,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Bunny-Luv Fresh Organic Carrots'})"
+0.00846262341325811,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Petit Suisse Fruit'})"
+0.005641748942172073,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Salted Butter'})"
+0.006346967559943582,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Strawberry Preserves'})"
+0.004936530324400564,"frozenset({'Wild Blueberry Preserves', 'Bonne Bouche Ash-Ripened Goat Cheese'})"
+0.006346967559943582,"frozenset({'Milk, Organic, Vitamin D', 'Bread, Country Buttermilk'})"
+0.004936530324400564,"frozenset({'Bread, Country Buttermilk', 'Roma Tomato'})"
+0.009167842031029619,"frozenset({'Brown Eggs', 'Natural Artesian Bottled Water'})"
+0.00846262341325811,"frozenset({'Brown Eggs', 'Reduced Fat Milk'})"
+0.005641748942172073,"frozenset({'Organic Heavy Whipping Cream', 'Bunny-Luv Fresh Organic Carrots'})"
+0.005641748942172073,"frozenset({'Bunny-Luv Fresh Organic Carrots', 'Organic Zucchini'})"
+0.007757404795486601,"frozenset({'Petit Suisse Fruit', 'Bunny-Luv Fresh Organic Carrots'})"
+0.004936530324400564,"frozenset({'Bunny-Luv Fresh Organic Carrots', 'Salted Butter'})"
+0.005641748942172073,"frozenset({'Strawberry Preserves', 'Bunny-Luv Fresh Organic Carrots'})"
+0.004936530324400564,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Bunny-Luv Fresh Organic Carrots'})"
+0.004936530324400564,"frozenset({'Wild Blueberry Preserves', 'Bunny-Luv Fresh Organic Carrots'})"
+0.00846262341325811,"frozenset({'Cran-Apple Juice Drink', 'Caramel Cone Ice Cream'})"
+0.00846262341325811,"frozenset({'Caramel Cone Ice Cream', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Honey Buns', 'Caramel Cone Ice Cream'})"
+0.00846262341325811,"frozenset({'Oatmeal Crème Pies', 'Caramel Cone Ice Cream'})"
+0.005641748942172073,"frozenset({'Original Fresh Stack Crackers', 'Caramel Cone Ice Cream'})"
+0.004936530324400564,"frozenset({'Carrots', 'Organic Baby Spinach'})"
+0.004936530324400564,"frozenset({'Cherry Pomegranate Greek Yogurt', 'Total 2% All Natural Greek Strained Yogurt with Honey'})"
+0.004936530324400564,"frozenset({'Cherry Pomegranate Greek Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt'})"
+0.004936530324400564,"frozenset({'Chocolate Peanut Butter', 'Coconut Chia Bar'})"
+0.004936530324400564,"frozenset({'Imported Mineral Water', 'Chocolate Peppermint Stick Bar'})"
+0.005641748942172073,"frozenset({'Chubby Hubby Ice Cream', 'Krinkle Cut Salt & Fresh Ground Pepper Potato Chips'})"
+0.006346967559943582,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Cinnamon Crunch'})"
+0.005641748942172073,"frozenset({'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Cinnamon Crunch'})"
+0.009873060648801129,"frozenset({'Cinnamon Crunch', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Cinnamon Raisin Bread', 'Organic Black Beans'})"
+0.007757404795486601,"frozenset({'Organic Milk', 'Cinnamon Raisin Bread'})"
+0.004936530324400564,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Cinnamon Raisin Bread'})"
+0.004936530324400564,"frozenset({'Pure Coconut Water', 'Cinnamon Raisin English Muffins'})"
+0.004936530324400564,"frozenset({'Classic Air-Puffed Vanilla Flavored Marshmallows', 'Organic Bagged Carrots'})"
+0.007052186177715092,"frozenset({'Organic Brown Rice Crisps Cereal', 'Classic Air-Puffed Vanilla Flavored Marshmallows'})"
+0.005641748942172073,"frozenset({'Classic Air-Puffed Vanilla Flavored Marshmallows', 'Toasted Coconut Chips Original Recipe'})"
+0.00846262341325811,"frozenset({'Dry Roasted Almonds', 'Clementines'})"
+0.009873060648801129,"frozenset({'Hass Avocados', 'Clementines'})"
+0.015514809590973202,"frozenset({'Soda', 'Clementines'})"
+0.007757404795486601,"frozenset({'Zero Calorie Cola', 'Clementines'})"
+0.004936530324400564,"frozenset({'Pure Coconut Water', 'Coconut Chia Bar'})"
+0.00846262341325811,"frozenset({'Grade A Extra Large Eggs', 'Cola'})"
+0.007757404795486601,"frozenset({'Light Oaked Chardonnay', 'Cola'})"
+0.00846262341325811,"frozenset({'Natural Lime Flavor Sparkling Mineral Water', 'Cola'})"
+0.00846262341325811,"frozenset({'Country Stand Juice, Medium Pulp', 'Organic Reduced Fat Milk'})"
+0.009873060648801129,"frozenset({'Cran-Apple Juice Drink', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Glazed Lemon Pie'})"
+0.007757404795486601,"frozenset({'Cran-Apple Juice Drink', 'Honey Buns'})"
+0.011283497884344146,"frozenset({'Cran-Apple Juice Drink', 'Oatmeal Crème Pies'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Original 0 Calorie Sweetener Packets 115 Count'})"
+0.006346967559943582,"frozenset({'Cran-Apple Juice Drink', 'Original Fresh Stack Crackers'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Pure Life Purified Water'})"
+0.004936530324400564,"frozenset({'Glazed Lemon Pie', 'Creamed Chipped Beef'})"
+0.007052186177715092,"frozenset({'Honey Buns', 'Creamed Chipped Beef'})"
+0.009873060648801129,"frozenset({'Oatmeal Crème Pies', 'Creamed Chipped Beef'})"
+0.005641748942172073,"frozenset({'Original Fresh Stack Crackers', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Creamy Almond Butter', 'Dry Roasted Almonds'})"
+0.005641748942172073,"frozenset({'English Seedless Cucumber', 'Crinkle Cut French Fries'})"
+0.005641748942172073,"frozenset({'Gluten Free Quinoa Rotelle Pasta', 'Crinkle Cut French Fries'})"
+0.005641748942172073,"frozenset({'Organic Baby Spinach', 'Crinkle Cut French Fries'})"
+0.005641748942172073,"frozenset({'Penne Rigate', 'Crinkle Cut French Fries'})"
+0.005641748942172073,"frozenset({'Crinkle Cut French Fries', 'Sourdough Bread'})"
+0.005641748942172073,"frozenset({'Crunch Granola Bar Chocolate Chip', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Crunch White Chocolate Macadamia Nut Granola Bars', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.00846262341325811,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.011283497884344146,"frozenset({'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.009873060648801129,"frozenset({'Lemon Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.007052186177715092,"frozenset({'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.009873060648801129,"frozenset({'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({""Organic Bernie's Farm Fruit Snacks strawberry, raspberry, & orange"", 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.011283497884344146,"frozenset({'Organic Heritage Flakes Cereal', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.011283497884344146,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.007757404795486601,"frozenset({'Peach-Pear Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Twilight Delight 72% Cacao Intense Dark Squares', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Crunch Granola Bar Chocolate Chip', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Crunch White Chocolate Macadamia Nut Granola Bars', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Crunchy Coconut Granola Bars', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Crunchy Coconut Granola Bars', 'Peach-Pear Sparkling Water'})"
+0.007052186177715092,"frozenset({'Dairy Free Coconut Milk Blueberry Yogurt Alternative', 'Dairy Free Coconut Milk Yogurt Alternative'})"
+0.007052186177715092,"frozenset({'Medium Navel Orange', 'Dairy Free Coconut Milk Blueberry Yogurt Alternative'})"
+0.007052186177715092,"frozenset({'Medium Navel Orange', 'Dairy Free Coconut Milk Yogurt Alternative'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Dark & Sea Salt Caramel Chocolate Squares'})"
+0.011988716502115656,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Dark Chocolate Minis'})"
+0.010578279266572637,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Gluten Free Honey Almond Granola'})"
+0.006346967559943582,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Healthy Grains Granola Bar, Vanilla Blueberry'})"
+0.007757404795486601,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares'})"
+0.010578279266572637,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Oatmeal Square Banana Dark Chocolate'})"
+0.00846262341325811,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water'})"
+0.007757404795486601,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Bunny Fruit Tropical Treat Fruit Snacks'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Graham Crunch Cereal'})"
+0.013399153737658674,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Heritage Flakes Cereal'})"
+0.009873060648801129,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Pink Lemonade Bunny Fruit Snacks'})"
+0.007052186177715092,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Summer Strawberry Bunny Fruit Snacks'})"
+0.006346967559943582,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Popped Dark Chocolate with Sea Salt Granola Bar'})"
+0.004936530324400564,"frozenset({'Twilight Delight 72% Cacao Intense Dark Squares', 'Dark & Mint Filled Chocolate Squares'})"
+0.009167842031029619,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Dark & Mint Filled Chocolate Squares'})"
+0.007757404795486601,"frozenset({'Gluten Free Honey Almond Granola', 'Dark & Sea Salt Caramel Chocolate Squares'})"
+0.004936530324400564,"frozenset({'Dark & Sea Salt Caramel Chocolate Squares', 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Healthy Grains Granola Bar, Vanilla Blueberry', 'Dark Chocolate Minis'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Dark Chocolate Minis'})"
+0.00846262341325811,"frozenset({'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Dark Chocolate Minis'})"
+0.006346967559943582,"frozenset({'Orange Sparkling Water', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({""Organic Bernie's Farm Fruit Snacks strawberry, raspberry, & orange"", 'Dark Chocolate Minis'})"
+0.007757404795486601,"frozenset({'Organic Graham Crunch Cereal', 'Dark Chocolate Minis'})"
+0.014104372355430184,"frozenset({'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.015514809590973202,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Dark Chocolate Minis'})"
+0.012693935119887164,"frozenset({'Peach-Pear Sparkling Water', 'Dark Chocolate Minis'})"
+0.011988716502115656,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Dark Chocolate Minis', 'Trail Mix Fruit & Nut Chewy Granola Bars'})"
+0.004936530324400564,"frozenset({'Twilight Delight 72% Cacao Intense Dark Squares', 'Dark Chocolate Minis'})"
+0.007052186177715092,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Diced Tomatoes', 'Gold Potato'})"
+0.005641748942172073,"frozenset({'Diced Tomatoes', 'Organic Baby Spinach'})"
+0.007052186177715092,"frozenset({'Diced Tomatoes', 'Organic Extra Firm Tofu'})"
+0.011283497884344146,"frozenset({'Diced Tomatoes', 'Organic Garlic'})"
+0.007052186177715092,"frozenset({'Organic Jalapeno Pepper', 'Diced Tomatoes'})"
+0.004936530324400564,"frozenset({'Organic Pinto Beans', 'Diced Tomatoes'})"
+0.006346967559943582,"frozenset({'Organic Red Onion', 'Diced Tomatoes'})"
+0.006346967559943582,"frozenset({'Diced Tomatoes', 'Organic Unsweetened Almond Milk'})"
+0.005641748942172073,"frozenset({'Diced Tomatoes', 'Organic Vegetarian Mild Refried Beans With Green Chiles'})"
+0.00846262341325811,"frozenset({'Hass Avocados', 'Dry Roasted Almonds'})"
+0.009167842031029619,"frozenset({'Dry Roasted Almonds', 'Soda'})"
+0.007757404795486601,"frozenset({'Dry Roasted Almonds', 'Zero Calorie Cola'})"
+0.007052186177715092,"frozenset({'Organic Garlic', 'Electrolyte Enhanced Water'})"
+0.004936530324400564,"frozenset({'Organic Ginger Root', 'Electrolyte Enhanced Water'})"
+0.004936530324400564,"frozenset({'Organic Lowfat 1% Milk', 'Electrolyte Enhanced Water'})"
+0.005641748942172073,"frozenset({'English Seedless Cucumber', 'Gluten Free Sliced Mountain White Bread'})"
+0.007052186177715092,"frozenset({'English Seedless Cucumber', 'Organic Baby Spinach'})"
+0.007757404795486601,"frozenset({'English Seedless Cucumber', 'Organic Garlic'})"
+0.004936530324400564,"frozenset({'Four Cheese Thin Crust Pizza', 'Low Fat Plain Yogurt'})"
+0.004936530324400564,"frozenset({'Organic Zucchini', 'Fresh Cauliflower'})"
+0.004936530324400564,"frozenset({'Frozen Organic Wild Blueberries', 'Organic Unsweetened Almond Milk'})"
+0.005641748942172073,"frozenset({'Oatmeal Crème Pies', 'Glazed Lemon Pie'})"
+0.004936530324400564,"frozenset({'Original Fresh Stack Crackers', 'Glazed Lemon Pie'})"
+0.005641748942172073,"frozenset({'Oatmeal Square Banana Dark Chocolate', 'Gluten Free Honey Almond Granola'})"
+0.007757404795486601,"frozenset({'Gluten Free Honey Almond Granola', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Sea Salt Soiree Intense Dark Chocolate Squares', 'Gluten Free Honey Almond Granola'})"
+0.006346967559943582,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Gluten Free Honey Almond Granola'})"
+0.004936530324400564,"frozenset({'Gluten Free Mushroom Risotto Bowl', 'Organic Dried Granny Apple Chips'})"
+0.004936530324400564,"frozenset({'Gluten Free Mushroom Risotto Bowl', 'Vanilla Skyr Nonfat Yogurt'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Gogo Squeez Organic Apple Strawberry Applesauce on the Go'})"
+0.006346967559943582,"frozenset({'Gourmet Pizza Nut-Free Pesto Gluten Free', 'Organic Baby Spinach'})"
+0.013399153737658674,"frozenset({'Grade A Extra Large Eggs', 'Light Oaked Chardonnay'})"
+0.01904090267983075,"frozenset({'Grade A Extra Large Eggs', 'Natural Lime Flavor Sparkling Mineral Water'})"
+0.007052186177715092,"frozenset({'Grade A Extra Large Eggs', 'Organic Chunky Vegetable Soup'})"
+0.004936530324400564,"frozenset({'Sliced Wheat Bread', 'Grade A Extra Large Eggs'})"
+0.007052186177715092,"frozenset({'Grade A Extra Large Eggs', 'Strawberries'})"
+0.004936530324400564,"frozenset({'Seedless Red Grapes', 'Grape White/Green Seedless'})"
+0.007757404795486601,"frozenset({'Half & Half', 'Whole Milk'})"
+0.006346967559943582,"frozenset({'Whole Wheat Pita Bread Loaves', 'Half & Half'})"
+0.00846262341325811,"frozenset({'Unsweetened Premium Iced Tea', 'Hard Boiled Eggs'})"
+0.007757404795486601,"frozenset({'Hass Avocados', 'Soda'})"
+0.006346967559943582,"frozenset({'Hass Avocados', 'Zero Calorie Cola'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Hazelnut Bite Size Wafer Cookies'})"
+0.005641748942172073,"frozenset({'Strawberry Preserves', 'Hazelnut Bite Size Wafer Cookies'})"
+0.007757404795486601,"frozenset({'Healthy Grains Granola Bar, Vanilla Blueberry', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.009873060648801129,"frozenset({'Healthy Grains Granola Bar, Vanilla Blueberry', 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Healthy Grains Granola Bar, Vanilla Blueberry'})"
+0.004936530324400564,"frozenset({'Healthy Grains Granola Bar, Vanilla Blueberry', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Healthy Grains Granola Bar, Vanilla Blueberry', 'Popped Dark Chocolate with Sea Salt Granola Bar'})"
+0.004936530324400564,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Healthy Grains Granola Bar, Vanilla Blueberry'})"
+0.004936530324400564,"frozenset({'Twilight Delight 72% Cacao Intense Dark Squares', 'Healthy Grains Granola Bar, Vanilla Blueberry'})"
+0.006346967559943582,"frozenset({'Kombucha  Bilberry No. 9', 'Hibiscus Organic Raw Kombucha'})"
+0.004936530324400564,"frozenset({'Organic & Raw Strawberry Serenity Kombucha', 'Hibiscus Organic Raw Kombucha'})"
+0.004936530324400564,"frozenset({'Passionberry Bliss Kombucha Drink', 'Hibiscus Organic Raw Kombucha'})"
+0.004936530324400564,"frozenset({'Hibiscus Organic Raw Kombucha', 'Synergy Organic Kombucha Gingerberry'})"
+0.004936530324400564,"frozenset({'Oatmeal Square Banana Dark Chocolate', 'Honey Almond Flax Chewy Granola Bars'})"
+0.007052186177715092,"frozenset({'Oatmeal Crème Pies', 'Honey Buns'})"
+0.005641748942172073,"frozenset({'Jalapeno Pepper', 'Mixed Vegetables'})"
+0.004936530324400564,"frozenset({'Organic Cucumber', 'Kale Greens'})"
+0.004936530324400564,"frozenset({'Roma Tomato', 'Kale Greens'})"
+0.007757404795486601,"frozenset({'Mexican Coffee', 'Lactose Free Fat Free Milk'})"
+0.004936530324400564,"frozenset({'Organic Cucumber', 'Lactose Free Fat Free Milk'})"
+0.004936530324400564,"frozenset({'Lactose Free Fat Free Milk', 'Organic Strawberries'})"
+0.007052186177715092,"frozenset({'Vanilla Coffee Concentrate', 'Lactose Free Fat Free Milk'})"
+0.005641748942172073,"frozenset({'Large Lemon', 'Limes'})"
+0.007052186177715092,"frozenset({'Large Lemon', 'Organic Garlic'})"
+0.004936530324400564,"frozenset({'Large Lemon', 'Organic Italian Parsley Bunch'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.011283497884344146,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Organic Bunny Fruit Tropical Treat Fruit Snacks'})"
+0.00846262341325811,"frozenset({'Lemon Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Organic Pink Lemonade Bunny Fruit Snacks'})"
+0.006346967559943582,"frozenset({'Petit Suisse Fruit', 'Lettuce Medley'})"
+0.015514809590973202,"frozenset({'Light Oaked Chardonnay', 'Natural Lime Flavor Sparkling Mineral Water'})"
+0.006346967559943582,"frozenset({'Light Oaked Chardonnay', 'Organic Chunky Vegetable Soup'})"
+0.005641748942172073,"frozenset({'Light Oaked Chardonnay', 'Strawberries'})"
+0.004936530324400564,"frozenset({'Organic Cottage Cheese Blueberry Acai Chia', 'Light and Lean Quinoa Black Beans with Butternut Squash and Chard'})"
+0.004936530324400564,"frozenset({'Organic Strawberry Chia Lowfat 2% Cottage Cheese', 'Light and Lean Quinoa Black Beans with Butternut Squash and Chard'})"
+0.006346967559943582,"frozenset({'Organic Italian Parsley Bunch', 'Limes'})"
+0.004936530324400564,"frozenset({'Organic Zucchini', 'Limes'})"
+0.006346967559943582,"frozenset({'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Oats & Honey Gluten Free Granola'})"
+0.004936530324400564,"frozenset({'Orange Sparkling Water', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.007052186177715092,"frozenset({'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Graham Crunch Cereal'})"
+0.012693935119887164,"frozenset({'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Heritage Flakes Cereal'})"
+0.007757404795486601,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.006346967559943582,"frozenset({'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.005641748942172073,"frozenset({'Twilight Delight 72% Cacao Intense Dark Squares', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.004936530324400564,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.004936530324400564,"frozenset({'Mexican Coffee', 'Organic Strawberries'})"
+0.004936530324400564,"frozenset({'Mexican Coffee', 'Original No Pulp 100% Florida Orange Juice'})"
+0.006346967559943582,"frozenset({'Mexican Coffee', 'Vanilla Coffee Concentrate'})"
+0.004936530324400564,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Mini Original Babybel Cheese'})"
+0.007052186177715092,"frozenset({'Natural Mint Gum', 'Natural Artesian Bottled Water'})"
+0.007052186177715092,"frozenset({'Natural Artesian Bottled Water', ""Organic D'Anjou Pears""})"
+0.006346967559943582,"frozenset({'Organic Granny Smith Apple', 'Natural Artesian Bottled Water'})"
+0.010578279266572637,"frozenset({'Organic Hass Avocado', 'Natural Artesian Bottled Water'})"
+0.011988716502115656,"frozenset({'Organic Leek', 'Natural Artesian Bottled Water'})"
+0.00846262341325811,"frozenset({'Organic Russet Potato', 'Natural Artesian Bottled Water'})"
+0.009167842031029619,"frozenset({'Organic Tomato Cluster', 'Natural Artesian Bottled Water'})"
+0.007757404795486601,"frozenset({'Natural Artesian Bottled Water', 'Organic Zucchini'})"
+0.019746121297602257,"frozenset({'Reduced Fat Milk', 'Natural Artesian Bottled Water'})"
+0.007757404795486601,"frozenset({'Natural Artisan Water', 'Natural Artesian Water'})"
+0.006346967559943582,"frozenset({'Pure Coconut Water', 'Natural Artesian Water'})"
+0.006346967559943582,"frozenset({'Total 0% Nonfat Greek Yogurt', 'Natural Artesian Water'})"
+0.005641748942172073,"frozenset({'Total 0% Raspberry Yogurt', 'Natural Artesian Water'})"
+0.006346967559943582,"frozenset({'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Natural Artesian Water'})"
+0.007757404795486601,"frozenset({'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.007052186177715092,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Natural Artesian Water'})"
+0.005641748942172073,"frozenset({'Pure Coconut Water', 'Natural Artisan Water'})"
+0.004936530324400564,"frozenset({'Natural Artisan Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.007757404795486601,"frozenset({'Organic Chunky Vegetable Soup', 'Natural Lime Flavor Sparkling Mineral Water'})"
+0.004936530324400564,"frozenset({'Sliced Wheat Bread', 'Natural Lime Flavor Sparkling Mineral Water'})"
+0.006346967559943582,"frozenset({'Strawberries', 'Natural Lime Flavor Sparkling Mineral Water'})"
+0.004936530324400564,"frozenset({'Reduced Fat Milk', 'Natural Mint Gum'})"
+0.005641748942172073,"frozenset({'Original 0 Calorie Sweetener Packets 115 Count', 'Oatmeal Crème Pies'})"
+0.007052186177715092,"frozenset({'Oatmeal Crème Pies', 'Original Fresh Stack Crackers'})"
+0.004936530324400564,"frozenset({'Pure Life Purified Water', 'Oatmeal Crème Pies'})"
+0.007052186177715092,"frozenset({'Oatmeal Square Banana Dark Chocolate', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Twilight Delight 72% Cacao Intense Dark Squares', 'Oatmeal Square Banana Dark Chocolate'})"
+0.004936530324400564,"frozenset({'Oats & Honey Gluten Free Granola', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Orange Sparkling Water'})"
+0.00846262341325811,"frozenset({'Orange Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Orange Sparkling Water'})"
+0.004936530324400564,"frozenset({'Organic & Raw Strawberry Serenity Kombucha', 'Organic Raw Kombucha Gingerade'})"
+0.004936530324400564,"frozenset({'Organic & Raw Strawberry Serenity Kombucha', 'Synergy Organic & Raw Cosmic Cranberry'})"
+0.007052186177715092,"frozenset({'Organic & Raw Strawberry Serenity Kombucha', 'Synergy Organic Kombucha Gingerberry'})"
+0.007052186177715092,"frozenset({'Organic Avocado', 'Organic Baby Spinach'})"
+0.005641748942172073,"frozenset({'Organic Brown Rice Crisps Cereal', 'Organic Avocado'})"
+0.004936530324400564,"frozenset({'Organic Avocado', 'Toasted Coconut Chips Original Recipe'})"
+0.006346967559943582,"frozenset({'Vanilla Unsweetened Almond Milk', 'Organic Avocado'})"
+0.004936530324400564,"frozenset({'Organic Baby Spinach', 'Organic Bosc Pear'})"
+0.005641748942172073,"frozenset({'Organic Broccoli', 'Organic Baby Spinach'})"
+0.004936530324400564,"frozenset({'Organic Cucumber', 'Organic Baby Spinach'})"
+0.005641748942172073,"frozenset({'Organic Baby Spinach', 'Organic Extra Firm Tofu'})"
+0.014809590973201692,"frozenset({'Organic Baby Spinach', 'Organic Garlic'})"
+0.010578279266572637,"frozenset({'Organic Hass Avocado', 'Organic Baby Spinach'})"
+0.004936530324400564,"frozenset({'Organic Italian Parsley Bunch', 'Organic Baby Spinach'})"
+0.005641748942172073,"frozenset({'Organic Leek', 'Organic Baby Spinach'})"
+0.005641748942172073,"frozenset({'Organic Red Onion', 'Organic Baby Spinach'})"
+0.004936530324400564,"frozenset({'Organic Roma Tomato', 'Organic Baby Spinach'})"
+0.005641748942172073,"frozenset({'Organic Small Bunch Celery', 'Organic Baby Spinach'})"
+0.007052186177715092,"frozenset({'Organic Baby Spinach', 'Organic Strawberries'})"
+0.007052186177715092,"frozenset({'Organic Tomato Cluster', 'Organic Baby Spinach'})"
+0.007757404795486601,"frozenset({'Organic Baby Spinach', 'Organic Zucchini'})"
+0.004936530324400564,"frozenset({'Organic Baby Spinach', 'Penne Rigate'})"
+0.004936530324400564,"frozenset({'Organic Baby Spinach', 'Sourdough Bread'})"
+0.004936530324400564,"frozenset({'Sweet Onion', 'Organic Baby Spinach'})"
+0.004936530324400564,"frozenset({'Vanilla Unsweetened Almond Milk', 'Organic Baby Spinach'})"
+0.005641748942172073,"frozenset({""Organic Bernie's Farm Fruit Snacks strawberry, raspberry, & orange"", 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', ""Organic Bernie's Farm Fruit Snacks strawberry, raspberry, & orange""})"
+0.005641748942172073,"frozenset({""Organic Bernie's Farm Fruit Snacks strawberry, raspberry, & orange"", 'Peach-Pear Sparkling Water'})"
+0.007052186177715092,"frozenset({'Red Raspberries', 'Organic Blackberries'})"
+0.006346967559943582,"frozenset({'Organic Blueberries', 'Organic Strawberries'})"
+0.004936530324400564,"frozenset({'Organic Hass Avocado', 'Organic Bosc Pear'})"
+0.004936530324400564,"frozenset({'Organic Brown Rice Crisps Cereal', 'Shelled Pistachios'})"
+0.005641748942172073,"frozenset({'Organic Brown Rice Crisps Cereal', 'Toasted Coconut Chips Original Recipe'})"
+0.006346967559943582,"frozenset({'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.007757404795486601,"frozenset({'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Organic Summer Strawberry Bunny Fruit Snacks'})"
+0.005641748942172073,"frozenset({'Organic Strawberry Chia Lowfat 2% Cottage Cheese', 'Organic Cottage Cheese Blueberry Acai Chia'})"
+0.006346967559943582,"frozenset({'Organic Cucumber', 'Organic Hass Avocado'})"
+0.004936530324400564,"frozenset({'Organic Small Bunch Celery', 'Organic Cucumber'})"
+0.005641748942172073,"frozenset({'Organic Cucumber', 'Organic Strawberries'})"
+0.004936530324400564,"frozenset({'Seedless Red Grapes', 'Organic Cucumber'})"
+0.006346967559943582,"frozenset({'Organic Granny Smith Apple', ""Organic D'Anjou Pears""})"
+0.006346967559943582,"frozenset({'Organic Leek', ""Organic D'Anjou Pears""})"
+0.004936530324400564,"frozenset({'Vanilla Skyr Nonfat Yogurt', 'Organic Dried Granny Apple Chips'})"
+0.004936530324400564,"frozenset({'Organic Extra Firm Tofu', 'Organic Garlic'})"
+0.004936530324400564,"frozenset({'Organic Extra Firm Tofu', 'Organic Unsweetened Almond Milk'})"
+0.004936530324400564,"frozenset({'Organic Hass Avocado', 'Organic Extra Large Grade AA Brown Eggs'})"
+0.005641748942172073,"frozenset({'Petit Suisse Fruit', 'Organic Frosted Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Ginger Root', 'Organic Garlic'})"
+0.004936530324400564,"frozenset({'Organic Hass Avocado', 'Organic Garlic'})"
+0.005641748942172073,"frozenset({'Organic Lemon', 'Organic Garlic'})"
+0.005641748942172073,"frozenset({'Organic Red Onion', 'Organic Garlic'})"
+0.005641748942172073,"frozenset({'Organic Strawberries', 'Organic Garlic'})"
+0.005641748942172073,"frozenset({'Organic Garlic', 'Organic Unsweetened Almond Milk'})"
+0.004936530324400564,"frozenset({'Organic Garlic', 'Organic Vegetarian Mild Refried Beans With Green Chiles'})"
+0.005641748942172073,"frozenset({'Original Hummus', 'Organic Garlic'})"
+0.007757404795486601,"frozenset({'Sweet Onion', 'Organic Garlic'})"
+0.011988716502115656,"frozenset({'Organic Graham Crunch Cereal', 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Graham Crunch Cereal'})"
+0.005641748942172073,"frozenset({'Organic Graham Crunch Cereal', 'Peach-Pear Sparkling Water'})"
+0.006346967559943582,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Organic Graham Crunch Cereal'})"
+0.006346967559943582,"frozenset({'Organic Granny Smith Apple', 'Organic Leek'})"
+0.007052186177715092,"frozenset({'Organic Milk', 'Organic Half & Half'})"
+0.004936530324400564,"frozenset({'Organic Strawberries', 'Organic Half & Half'})"
+0.006346967559943582,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Organic Half & Half'})"
+0.005641748942172073,"frozenset({'Organic Hass Avocado', 'Organic Italian Parsley Bunch'})"
+0.00846262341325811,"frozenset({'Organic Lemon', 'Organic Hass Avocado'})"
+0.007757404795486601,"frozenset({'Organic Hass Avocado', 'Organic Milk'})"
+0.005641748942172073,"frozenset({'Organic Hass Avocado', 'Organic Red Onion'})"
+0.005641748942172073,"frozenset({'Organic Roma Tomato', 'Organic Hass Avocado'})"
+0.004936530324400564,"frozenset({'Organic Hass Avocado', 'Organic Seasoned Yukon Select Potatoes Hashed Browns'})"
+0.004936530324400564,"frozenset({'Organic Hass Avocado', 'Organic Strawberries'})"
+0.006346967559943582,"frozenset({'Organic Tomato Cluster', 'Organic Hass Avocado'})"
+0.004936530324400564,"frozenset({'Organic Yellow Onion', 'Organic Hass Avocado'})"
+0.007052186177715092,"frozenset({'Organic Hass Avocado', 'Organic Zucchini'})"
+0.005641748942172073,"frozenset({'Organic Hass Avocado', 'Pure Sparkling Water'})"
+0.007052186177715092,"frozenset({'Organic Hass Avocado', 'Reduced Fat Milk'})"
+0.004936530324400564,"frozenset({'Sparkling Lemon Water', 'Organic Hass Avocado'})"
+0.006346967559943582,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Organic Hass Avocado'})"
+0.005641748942172073,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Organic Hass Avocado'})"
+0.004936530324400564,"frozenset({'Organic Heavy Whipping Cream', 'Organic Zucchini'})"
+0.007052186177715092,"frozenset({'Petit Suisse Fruit', 'Organic Heavy Whipping Cream'})"
+0.007052186177715092,"frozenset({'Organic Heavy Whipping Cream', 'Salted Butter'})"
+0.004936530324400564,"frozenset({'Organic Heavy Whipping Cream', 'Strawberry Preserves'})"
+0.005641748942172073,"frozenset({'Organic Heavy Whipping Cream', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt'})"
+0.015514809590973202,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Organic Summer Strawberry Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.011988716502115656,"frozenset({'Peach-Pear Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Popped Dark Chocolate with Sea Salt Granola Bar', 'Organic Heritage Flakes Cereal'})"
+0.009873060648801129,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Organic Heritage Flakes Cereal'})"
+0.009167842031029619,"frozenset({'Twilight Delight 72% Cacao Intense Dark Squares', 'Organic Heritage Flakes Cereal'})"
+0.009167842031029619,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Red Onion', 'Organic Italian Parsley Bunch'})"
+0.005641748942172073,"frozenset({'Organic Large Brown Grade AA Cage Free Eggs', 'Organic Strawberries'})"
+0.004936530324400564,"frozenset({'Organic Large Brown Grade AA Cage Free Eggs', 'Roma Tomato'})"
+0.004936530324400564,"frozenset({'Organic Large Extra Fancy Fuji Apple', 'Organic Strawberries'})"
+0.007757404795486601,"frozenset({'Organic Leek', 'Organic Russet Potato'})"
+0.004936530324400564,"frozenset({'Organic Tomato Cluster', 'Organic Leek'})"
+0.004936530324400564,"frozenset({'Organic Yellow Onion', 'Organic Leek'})"
+0.009873060648801129,"frozenset({'Organic Leek', 'Organic Zucchini'})"
+0.005641748942172073,"frozenset({'Reduced Fat Milk', 'Organic Leek'})"
+0.005641748942172073,"frozenset({'Organic Lemon', 'Organic Strawberries'})"
+0.005641748942172073,"frozenset({'Organic Strawberries', 'Organic Milk'})"
+0.004936530324400564,"frozenset({'Organic Yellow Onion', 'Organic Milk'})"
+0.004936530324400564,"frozenset({'Organic Milk', 'Sprouted Multi-Grain Bread'})"
+0.009167842031029619,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Organic Milk'})"
+0.005641748942172073,"frozenset({'Unsalted Sweet Butter', 'Organic Milk'})"
+0.013399153737658674,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Peach-Pear Sparkling Water'})"
+0.012693935119887164,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced'})"
+0.005641748942172073,"frozenset({'Twilight Delight 72% Cacao Intense Dark Squares', 'Organic Pink Lemonade Bunny Fruit Snacks'})"
+0.004936530324400564,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Organic Pink Lemonade Bunny Fruit Snacks'})"
+0.005641748942172073,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Organic Plain Whole Milk Yogurt'})"
+0.004936530324400564,"frozenset({'Organic Raw Kombucha Gingerade', 'Synergy Organic Kombucha Gingerberry'})"
+0.007757404795486601,"frozenset({'Organic Red Onion', 'Organic Unsweetened Almond Milk'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Organic Reduced Fat 2% Milk'})"
+0.004936530324400564,"frozenset({'Organic Zucchini', 'Organic Reduced Fat Milk'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Organic Reduced Fat Milk'})"
+0.005641748942172073,"frozenset({'Organic Tomato Cluster', 'Organic Russet Potato'})"
+0.006346967559943582,"frozenset({'Organic Yellow Onion', 'Organic Russet Potato'})"
+0.005641748942172073,"frozenset({'Organic Russet Potato', 'Organic Zucchini'})"
+0.005641748942172073,"frozenset({'Reduced Fat Milk', 'Organic Russet Potato'})"
+0.006346967559943582,"frozenset({'Pure Sparkling Water', 'Organic Seasoned Yukon Select Potatoes Hashed Browns'})"
+0.005641748942172073,"frozenset({'Organic Yellow Onion', 'Organic Strawberries'})"
+0.005641748942172073,"frozenset({'Seedless Red Grapes', 'Organic Strawberries'})"
+0.007757404795486601,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Organic Strawberries'})"
+0.005641748942172073,"frozenset({'Original Beef Jerky', 'Organic String Cheese'})"
+0.005641748942172073,"frozenset({'Pistachios', 'Organic String Cheese'})"
+0.005641748942172073,"frozenset({'Soda', 'Organic String Cheese'})"
+0.006346967559943582,"frozenset({'Organic Tomato Cluster', 'Organic Zucchini'})"
+0.007052186177715092,"frozenset({'Organic Tomato Cluster', 'Reduced Fat Milk'})"
+0.004936530324400564,"frozenset({'Organic Unsweetened Almond Milk', 'Organic Vegetarian Mild Refried Beans With Green Chiles'})"
+0.004936530324400564,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Organic Yellow Onion'})"
+0.006346967559943582,"frozenset({'Petit Suisse Fruit', 'Organic Zucchini'})"
+0.006346967559943582,"frozenset({'Reduced Fat Milk', 'Organic Zucchini'})"
+0.004936530324400564,"frozenset({'Organic Zucchini', 'Salted Butter'})"
+0.006346967559943582,"frozenset({'Original Beef Jerky', 'Pistachios'})"
+0.007757404795486601,"frozenset({'Original Beef Jerky', 'Soda'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Parsley'})"
+0.012693935119887164,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Peach-Pear Sparkling Water', 'Trail Mix Fruit & Nut Chewy Granola Bars'})"
+0.004936530324400564,"frozenset({'Twilight Delight 72% Cacao Intense Dark Squares', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Vanilla Skyr Nonfat Yogurt', 'Pesto Tortellini  Bowls'})"
+0.007757404795486601,"frozenset({'Petit Suisse Fruit', 'Salted Butter'})"
+0.007757404795486601,"frozenset({'Petit Suisse Fruit', 'Strawberry Preserves'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Sweet Onion'})"
+0.006346967559943582,"frozenset({'Petit Suisse Fruit', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt'})"
+0.006346967559943582,"frozenset({'Wild Blueberry Preserves', 'Petit Suisse Fruit'})"
+0.006346967559943582,"frozenset({'Pistachios', 'Soda'})"
+0.004936530324400564,"frozenset({'Total 0% Nonfat Greek Yogurt', 'Pure Coconut Water'})"
+0.004936530324400564,"frozenset({'Pure Coconut Water', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.004936530324400564,"frozenset({'Pure Coconut Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Pure Coconut Water'})"
+0.004936530324400564,"frozenset({'Red Raspberries', 'Strawberries'})"
+0.006346967559943582,"frozenset({'Strawberry Preserves', 'Salted Butter'})"
+0.005641748942172073,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Salted Butter'})"
+0.004936530324400564,"frozenset({'Wild Blueberry Preserves', 'Salted Butter'})"
+0.006346967559943582,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Sea Salt Potato Chips'})"
+0.004936530324400564,"frozenset({'Small Hass Avocado', 'Vanilla Skyr Nonfat Yogurt'})"
+0.013399153737658674,"frozenset({'Soda', 'Zero Calorie Cola'})"
+0.004936530324400564,"frozenset({'Sparkling Grapefruit', 'Sparkling Clementine Juice'})"
+0.004936530324400564,"frozenset({'Wild Blueberry Preserves', 'Strawberry Preserves'})"
+0.006346967559943582,"frozenset({'Total 0% Raspberry Yogurt', 'Total 0% Nonfat Greek Yogurt'})"
+0.005641748942172073,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 0% Nonfat Greek Yogurt'})"
+0.005641748942172073,"frozenset({'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 0% Nonfat Greek Yogurt'})"
+0.00846262341325811,"frozenset({'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.00846262341325811,"frozenset({'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.009167842031029619,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt'})"
+0.006346967559943582,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 0% Raspberry Yogurt'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz'})"
+0.006346967559943582,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.007052186177715092,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.011283497884344146,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt'})"
+0.005641748942172073,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz'})"
+0.007052186177715092,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.007052186177715092,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.010578279266572637,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt'})"
+0.007757404795486601,"frozenset({'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.007052186177715092,"frozenset({'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.00846262341325811,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz'})"
+0.011283497884344146,"frozenset({'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.011988716502115656,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.010578279266572637,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.007757404795486601,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Twilight Delight 72% Cacao Intense Dark Squares'})"
+0.005641748942172073,"frozenset({'Whole Wheat Pita Bread Loaves', 'Whole Milk'})"
+0.006346967559943582,"frozenset({'0% Greek Strained Yogurt', 'Apples', 'Bag of Organic Bananas'})"
+0.005641748942172073,"frozenset({'80  Vodka Holiday Edition', 'Jalapeno Pepper', 'Mixed Vegetables'})"
+0.004936530324400564,"frozenset({'Mexican Coffee', 'Lactose Free Fat Free Milk', '85% Lean Ground Beef'})"
+0.004936530324400564,"frozenset({'Mexican Coffee', 'Vanilla Coffee Concentrate', '85% Lean Ground Beef'})"
+0.004936530324400564,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Twilight Delight 72% Cacao Intense Dark Squares', 'Annie Peely Fruit 4.5 Z'})"
+0.006346967559943582,"frozenset({'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', ""Annie's Bunny Fruit Snacks Variety"", 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Organic Heritage Flakes Cereal', ""Annie's Bunny Fruit Snacks Variety"", 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety""})"
+0.006346967559943582,"frozenset({'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water'})"
+0.005641748942172073,"frozenset({'Lemon Sparkling Water', ""Annie's Bunny Fruit Snacks Variety"", 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Petit Suisse Fruit', 'Antimo Caputo Flour', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Bonne Bouche Ash-Ripened Goat Cheese', 'Antimo Caputo Flour'})"
+0.004936530324400564,"frozenset({'Antimo Caputo Flour', 'Strawberry Preserves', 'Hazelnut Bite Size Wafer Cookies'})"
+0.004936530324400564,"frozenset({'Organic Hass Avocado', 'Apple Honeycrisp Organic', 'Bag of Organic Bananas'})"
+0.006346967559943582,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Apple Honeycrisp Organic', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Organic Plain Whole Milk Yogurt', 'Apple Honeycrisp Organic'})"
+0.006346967559943582,"frozenset({'Apples', 'Organic Half & Half', 'Bag of Organic Bananas'})"
+0.005641748942172073,"frozenset({'Soda', 'Apples', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Trail Mix', 'Apples', 'Bag of Organic Bananas'})"
+0.005641748942172073,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Bunny-Luv Fresh Organic Carrots', 'Authentic French Brioche'})"
+0.007757404795486601,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Petit Suisse Fruit', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Salted Butter', 'Authentic French Brioche'})"
+0.005641748942172073,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Strawberry Preserves', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Wild Blueberry Preserves', 'Bonne Bouche Ash-Ripened Goat Cheese', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Organic Heavy Whipping Cream', 'Bunny-Luv Fresh Organic Carrots', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Bunny-Luv Fresh Organic Carrots', 'Organic Zucchini', 'Authentic French Brioche'})"
+0.007757404795486601,"frozenset({'Petit Suisse Fruit', 'Bunny-Luv Fresh Organic Carrots', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Bunny-Luv Fresh Organic Carrots', 'Salted Butter', 'Authentic French Brioche'})"
+0.005641748942172073,"frozenset({'Strawberry Preserves', 'Bunny-Luv Fresh Organic Carrots', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Bunny-Luv Fresh Organic Carrots', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Wild Blueberry Preserves', 'Bunny-Luv Fresh Organic Carrots', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Gogo Squeez Organic Apple Strawberry Applesauce on the Go', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Strawberry Preserves', 'Hazelnut Bite Size Wafer Cookies', 'Authentic French Brioche'})"
+0.006346967559943582,"frozenset({'Petit Suisse Fruit', 'Lettuce Medley', 'Authentic French Brioche'})"
+0.005641748942172073,"frozenset({'Petit Suisse Fruit', 'Organic Frosted Flakes Cereal', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Organic Heavy Whipping Cream', 'Organic Zucchini', 'Authentic French Brioche'})"
+0.007052186177715092,"frozenset({'Petit Suisse Fruit', 'Organic Heavy Whipping Cream', 'Authentic French Brioche'})"
+0.006346967559943582,"frozenset({'Organic Heavy Whipping Cream', 'Salted Butter', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Organic Heavy Whipping Cream', 'Strawberry Preserves', 'Authentic French Brioche'})"
+0.005641748942172073,"frozenset({'Organic Heavy Whipping Cream', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Organic Reduced Fat 2% Milk', 'Authentic French Brioche'})"
+0.005641748942172073,"frozenset({'Petit Suisse Fruit', 'Organic Zucchini', 'Authentic French Brioche'})"
+0.007052186177715092,"frozenset({'Petit Suisse Fruit', 'Salted Butter', 'Authentic French Brioche'})"
+0.007052186177715092,"frozenset({'Petit Suisse Fruit', 'Strawberry Preserves', 'Authentic French Brioche'})"
+0.006346967559943582,"frozenset({'Petit Suisse Fruit', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Authentic French Brioche'})"
+0.006346967559943582,"frozenset({'Wild Blueberry Preserves', 'Petit Suisse Fruit', 'Authentic French Brioche'})"
+0.005641748942172073,"frozenset({'Strawberry Preserves', 'Salted Butter', 'Authentic French Brioche'})"
+0.005641748942172073,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Salted Butter', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Wild Blueberry Preserves', 'Salted Butter', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Wild Blueberry Preserves', 'Strawberry Preserves', 'Authentic French Brioche'})"
+0.007052186177715092,"frozenset({'Dairy Free Coconut Milk Blueberry Yogurt Alternative', 'Bag of Organic Bananas', 'Dairy Free Coconut Milk Yogurt Alternative'})"
+0.007052186177715092,"frozenset({'Medium Navel Orange', 'Dairy Free Coconut Milk Blueberry Yogurt Alternative', 'Bag of Organic Bananas'})"
+0.007052186177715092,"frozenset({'Medium Navel Orange', 'Bag of Organic Bananas', 'Dairy Free Coconut Milk Yogurt Alternative'})"
+0.004936530324400564,"frozenset({'Natural Artesian Bottled Water', ""Organic D'Anjou Pears"", 'Bag of Organic Bananas'})"
+0.006346967559943582,"frozenset({'Organic Leek', 'Natural Artesian Bottled Water', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Organic Granny Smith Apple', ""Organic D'Anjou Pears"", 'Bag of Organic Bananas'})"
+0.005641748942172073,"frozenset({'Organic Hass Avocado', 'Organic Milk', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Organic Hass Avocado', 'Bag of Organic Bananas'})"
+0.007757404795486601,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Organic Milk', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Organic Strawberries', 'Bag of Organic Bananas'})"
+0.004936530324400564,"frozenset({'Uncured Hickory Smoked Sunday Bacon', 'Sea Salt Potato Chips', 'Bag of Organic Bananas'})"
+0.005641748942172073,"frozenset({'Cran-Apple Juice Drink', 'Bars Peanut Butter', 'Caramel Cone Ice Cream'})"
+0.005641748942172073,"frozenset({'Bars Peanut Butter', 'Caramel Cone Ice Cream', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Bars Peanut Butter', 'Honey Buns', 'Caramel Cone Ice Cream'})"
+0.004936530324400564,"frozenset({'Bars Peanut Butter', 'Oatmeal Crème Pies', 'Caramel Cone Ice Cream'})"
+0.007052186177715092,"frozenset({'Cran-Apple Juice Drink', 'Bars Peanut Butter', 'Creamed Chipped Beef'})"
+0.007052186177715092,"frozenset({'Cran-Apple Juice Drink', 'Bars Peanut Butter', 'Honey Buns'})"
+0.007052186177715092,"frozenset({'Cran-Apple Juice Drink', 'Bars Peanut Butter', 'Oatmeal Crème Pies'})"
+0.006346967559943582,"frozenset({'Bars Peanut Butter', 'Honey Buns', 'Creamed Chipped Beef'})"
+0.006346967559943582,"frozenset({'Bars Peanut Butter', 'Oatmeal Crème Pies', 'Creamed Chipped Beef'})"
+0.006346967559943582,"frozenset({'Oatmeal Crème Pies', 'Bars Peanut Butter', 'Honey Buns'})"
+0.005641748942172073,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Bunny-Luv Fresh Organic Carrots', 'Petit Suisse Fruit'})"
+0.005641748942172073,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Petit Suisse Fruit', 'Salted Butter'})"
+0.006346967559943582,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Strawberry Preserves', 'Petit Suisse Fruit'})"
+0.004936530324400564,"frozenset({'Wild Blueberry Preserves', 'Petit Suisse Fruit', 'Bonne Bouche Ash-Ripened Goat Cheese'})"
+0.006346967559943582,"frozenset({'Brown Eggs', 'Reduced Fat Milk', 'Natural Artesian Bottled Water'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Organic Heavy Whipping Cream', 'Bunny-Luv Fresh Organic Carrots'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Bunny-Luv Fresh Organic Carrots', 'Organic Zucchini'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Strawberry Preserves', 'Bunny-Luv Fresh Organic Carrots'})"
+0.007757404795486601,"frozenset({'Cran-Apple Juice Drink', 'Caramel Cone Ice Cream', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Honey Buns', 'Caramel Cone Ice Cream'})"
+0.007757404795486601,"frozenset({'Cran-Apple Juice Drink', 'Oatmeal Crème Pies', 'Caramel Cone Ice Cream'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Original Fresh Stack Crackers', 'Caramel Cone Ice Cream'})"
+0.004936530324400564,"frozenset({'Honey Buns', 'Caramel Cone Ice Cream', 'Creamed Chipped Beef'})"
+0.007757404795486601,"frozenset({'Oatmeal Crème Pies', 'Caramel Cone Ice Cream', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Original Fresh Stack Crackers', 'Caramel Cone Ice Cream', 'Creamed Chipped Beef'})"
+0.005641748942172073,"frozenset({'Oatmeal Crème Pies', 'Original Fresh Stack Crackers', 'Caramel Cone Ice Cream'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Cinnamon Crunch'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Cinnamon Crunch', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Cinnamon Crunch', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Brown Rice Crisps Cereal', 'Classic Air-Puffed Vanilla Flavored Marshmallows', 'Toasted Coconut Chips Original Recipe'})"
+0.006346967559943582,"frozenset({'Hass Avocados', 'Dry Roasted Almonds', 'Clementines'})"
+0.005641748942172073,"frozenset({'Dry Roasted Almonds', 'Soda', 'Clementines'})"
+0.005641748942172073,"frozenset({'Dry Roasted Almonds', 'Zero Calorie Cola', 'Clementines'})"
+0.007052186177715092,"frozenset({'Hass Avocados', 'Soda', 'Clementines'})"
+0.005641748942172073,"frozenset({'Hass Avocados', 'Zero Calorie Cola', 'Clementines'})"
+0.007757404795486601,"frozenset({'Soda', 'Zero Calorie Cola', 'Clementines'})"
+0.004936530324400564,"frozenset({'Grade A Extra Large Eggs', 'Light Oaked Chardonnay', 'Cola'})"
+0.006346967559943582,"frozenset({'Grade A Extra Large Eggs', 'Natural Lime Flavor Sparkling Mineral Water', 'Cola'})"
+0.005641748942172073,"frozenset({'Light Oaked Chardonnay', 'Natural Lime Flavor Sparkling Mineral Water', 'Cola'})"
+0.007052186177715092,"frozenset({'Cran-Apple Juice Drink', 'Honey Buns', 'Creamed Chipped Beef'})"
+0.009167842031029619,"frozenset({'Cran-Apple Juice Drink', 'Oatmeal Crème Pies', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Original Fresh Stack Crackers', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Oatmeal Crème Pies', 'Glazed Lemon Pie'})"
+0.007052186177715092,"frozenset({'Cran-Apple Juice Drink', 'Honey Buns', 'Oatmeal Crème Pies'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Original 0 Calorie Sweetener Packets 115 Count', 'Oatmeal Crème Pies'})"
+0.006346967559943582,"frozenset({'Cran-Apple Juice Drink', 'Original Fresh Stack Crackers', 'Oatmeal Crème Pies'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Pure Life Purified Water', 'Oatmeal Crème Pies'})"
+0.004936530324400564,"frozenset({'Oatmeal Crème Pies', 'Glazed Lemon Pie', 'Creamed Chipped Beef'})"
+0.006346967559943582,"frozenset({'Oatmeal Crème Pies', 'Honey Buns', 'Creamed Chipped Beef'})"
+0.005641748942172073,"frozenset({'Oatmeal Crème Pies', 'Original Fresh Stack Crackers', 'Creamed Chipped Beef'})"
+0.005641748942172073,"frozenset({'Crunch Granola Bar Chocolate Chip', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Crunch White Chocolate Macadamia Nut Granola Bars', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.007757404795486601,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.007757404795486601,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.007052186177715092,"frozenset({'Organic Heritage Flakes Cereal', 'Dark & Mint Filled Chocolate Squares', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Orange Sparkling Water', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.007052186177715092,"frozenset({'Organic Heritage Flakes Cereal', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.007757404795486601,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Peach-Pear Sparkling Water', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.009873060648801129,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.00846262341325811,"frozenset({'Lemon Sparkling Water', 'Organic Heritage Flakes Cereal', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Orange Sparkling Water', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.007052186177715092,"frozenset({'Organic Heritage Flakes Cereal', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.00846262341325811,"frozenset({'Organic Heritage Flakes Cereal', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({""Organic Bernie's Farm Fruit Snacks strawberry, raspberry, & orange"", 'Peach-Pear Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.007757404795486601,"frozenset({'Organic Heritage Flakes Cereal', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Organic Heritage Flakes Cereal', 'Peach-Pear Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Organic Heritage Flakes Cereal', 'Twilight Delight 72% Cacao Intense Dark Squares', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Peach-Pear Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Peach-Pear Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Crunchy Coconut Granola Bars', 'Peach-Pear Sparkling Water', 'Dark Chocolate Minis'})"
+0.007052186177715092,"frozenset({'Medium Navel Orange', 'Dairy Free Coconut Milk Blueberry Yogurt Alternative', 'Dairy Free Coconut Milk Yogurt Alternative'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Gluten Free Honey Almond Granola', 'Dark & Sea Salt Caramel Chocolate Squares'})"
+0.005641748942172073,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Dark Chocolate Minis'})"
+0.007052186177715092,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Dark Chocolate Minis'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis'})"
+0.00846262341325811,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.007757404795486601,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Peach-Pear Sparkling Water', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Dark & Mint Filled Chocolate Squares', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Dark & Mint Filled Chocolate Squares', 'Gluten Free Honey Almond Granola'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Healthy Grains Granola Bar, Vanilla Blueberry', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.007757404795486601,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Organic Bunny Fruit Tropical Treat Fruit Snacks'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Organic Pink Lemonade Bunny Fruit Snacks'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Graham Crunch Cereal'})"
+0.009167842031029619,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Orange Sparkling Water'})"
+0.006346967559943582,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Orange Sparkling Water'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Organic Summer Strawberry Bunny Fruit Snacks'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Graham Crunch Cereal', 'Organic Heritage Flakes Cereal'})"
+0.007757404795486601,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Summer Strawberry Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Popped Dark Chocolate with Sea Salt Granola Bar', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Healthy Grains Granola Bar, Vanilla Blueberry', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.00846262341325811,"frozenset({'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Dark Chocolate Minis'})"
+0.005641748942172073,"frozenset({'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Dark Chocolate Minis', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Orange Sparkling Water', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.007757404795486601,"frozenset({'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Peach-Pear Sparkling Water'})"
+0.005641748942172073,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis'})"
+0.011283497884344146,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.009167842031029619,"frozenset({'Peach-Pear Sparkling Water', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.00846262341325811,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.011283497884344146,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Peach-Pear Sparkling Water', 'Dark Chocolate Minis'})"
+0.011283497884344146,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Dark Chocolate Minis'})"
+0.011283497884344146,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Peach-Pear Sparkling Water', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Peach-Pear Sparkling Water', 'Dark Chocolate Minis', 'Trail Mix Fruit & Nut Chewy Granola Bars'})"
+0.004936530324400564,"frozenset({'Diced Tomatoes', 'Organic Garlic', 'Organic Vegetarian Mild Refried Beans With Green Chiles'})"
+0.004936530324400564,"frozenset({'Hass Avocados', 'Dry Roasted Almonds', 'Soda'})"
+0.004936530324400564,"frozenset({'Hass Avocados', 'Dry Roasted Almonds', 'Zero Calorie Cola'})"
+0.007757404795486601,"frozenset({'Soda', 'Dry Roasted Almonds', 'Zero Calorie Cola'})"
+0.004936530324400564,"frozenset({'Oatmeal Crème Pies', 'Original Fresh Stack Crackers', 'Glazed Lemon Pie'})"
+0.004936530324400564,"frozenset({'Gluten Free Mushroom Risotto Bowl', 'Vanilla Skyr Nonfat Yogurt', 'Organic Dried Granny Apple Chips'})"
+0.012693935119887164,"frozenset({'Grade A Extra Large Eggs', 'Light Oaked Chardonnay', 'Natural Lime Flavor Sparkling Mineral Water'})"
+0.005641748942172073,"frozenset({'Grade A Extra Large Eggs', 'Light Oaked Chardonnay', 'Organic Chunky Vegetable Soup'})"
+0.005641748942172073,"frozenset({'Grade A Extra Large Eggs', 'Light Oaked Chardonnay', 'Strawberries'})"
+0.007052186177715092,"frozenset({'Grade A Extra Large Eggs', 'Organic Chunky Vegetable Soup', 'Natural Lime Flavor Sparkling Mineral Water'})"
+0.006346967559943582,"frozenset({'Grade A Extra Large Eggs', 'Strawberries', 'Natural Lime Flavor Sparkling Mineral Water'})"
+0.005641748942172073,"frozenset({'Whole Wheat Pita Bread Loaves', 'Half & Half', 'Whole Milk'})"
+0.006346967559943582,"frozenset({'Hass Avocados', 'Soda', 'Zero Calorie Cola'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Strawberry Preserves', 'Hazelnut Bite Size Wafer Cookies'})"
+0.006346967559943582,"frozenset({'Healthy Grains Granola Bar, Vanilla Blueberry', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Healthy Grains Granola Bar, Vanilla Blueberry', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Healthy Grains Granola Bar, Vanilla Blueberry', 'Popped Dark Chocolate with Sea Salt Granola Bar', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Healthy Grains Granola Bar, Vanilla Blueberry', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Healthy Grains Granola Bar, Vanilla Blueberry'})"
+0.004936530324400564,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Healthy Grains Granola Bar, Vanilla Blueberry', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Mexican Coffee', 'Lactose Free Fat Free Milk', 'Organic Strawberries'})"
+0.005641748942172073,"frozenset({'Mexican Coffee', 'Vanilla Coffee Concentrate', 'Lactose Free Fat Free Milk'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Organic Bunny Fruit Tropical Treat Fruit Snacks'})"
+0.00846262341325811,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Orange Sparkling Water'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Light Oaked Chardonnay', 'Organic Chunky Vegetable Soup', 'Natural Lime Flavor Sparkling Mineral Water'})"
+0.004936530324400564,"frozenset({'Light Oaked Chardonnay', 'Strawberries', 'Natural Lime Flavor Sparkling Mineral Water'})"
+0.004936530324400564,"frozenset({'Organic Strawberry Chia Lowfat 2% Cottage Cheese', 'Organic Cottage Cheese Blueberry Acai Chia', 'Light and Lean Quinoa Black Beans with Butternut Squash and Chard'})"
+0.004936530324400564,"frozenset({'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Oats & Honey Gluten Free Granola', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Orange Sparkling Water', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Heritage Flakes Cereal'})"
+0.007052186177715092,"frozenset({'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Graham Crunch Cereal', 'Organic Heritage Flakes Cereal'})"
+0.007757404795486601,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Heritage Flakes Cereal'})"
+0.006346967559943582,"frozenset({'Organic Heritage Flakes Cereal', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.004936530324400564,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Peach-Pear Sparkling Water'})"
+0.005641748942172073,"frozenset({'Organic Granny Smith Apple', 'Natural Artesian Bottled Water', ""Organic D'Anjou Pears""})"
+0.004936530324400564,"frozenset({'Organic Leek', 'Natural Artesian Bottled Water', ""Organic D'Anjou Pears""})"
+0.004936530324400564,"frozenset({'Organic Granny Smith Apple', 'Organic Leek', 'Natural Artesian Bottled Water'})"
+0.006346967559943582,"frozenset({'Reduced Fat Milk', 'Organic Hass Avocado', 'Natural Artesian Bottled Water'})"
+0.004936530324400564,"frozenset({'Organic Leek', 'Organic Russet Potato', 'Natural Artesian Bottled Water'})"
+0.004936530324400564,"frozenset({'Reduced Fat Milk', 'Natural Artesian Bottled Water', 'Organic Leek'})"
+0.004936530324400564,"frozenset({'Organic Tomato Cluster', 'Reduced Fat Milk', 'Natural Artesian Bottled Water'})"
+0.004936530324400564,"frozenset({'Reduced Fat Milk', 'Natural Artesian Bottled Water', 'Organic Zucchini'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Natural Artesian Water'})"
+0.004936530324400564,"frozenset({'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Natural Artesian Water'})"
+0.005641748942172073,"frozenset({'Total 0% Nonfat Greek Yogurt', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.005641748942172073,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Natural Artesian Water'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Natural Artesian Water'})"
+0.005641748942172073,"frozenset({'Total 0% Raspberry Yogurt', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.005641748942172073,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Natural Artesian Water'})"
+0.006346967559943582,"frozenset({'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.006346967559943582,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Natural Artesian Water'})"
+0.007052186177715092,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Orange Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic & Raw Strawberry Serenity Kombucha', 'Organic Raw Kombucha Gingerade', 'Synergy Organic Kombucha Gingerberry'})"
+0.004936530324400564,"frozenset({'Organic Baby Spinach', 'Organic Hass Avocado', 'Organic Bosc Pear'})"
+0.005641748942172073,"frozenset({'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Organic Summer Strawberry Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Granny Smith Apple', 'Organic Leek', ""Organic D'Anjou Pears""})"
+0.006346967559943582,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Graham Crunch Cereal', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Organic Heritage Flakes Cereal', 'Organic Graham Crunch Cereal', 'Peach-Pear Sparkling Water'})"
+0.006346967559943582,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Organic Graham Crunch Cereal', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Graham Crunch Cereal', 'Peach-Pear Sparkling Water'})"
+0.006346967559943582,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Organic Graham Crunch Cereal'})"
+0.005641748942172073,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Organic Graham Crunch Cereal', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Organic Hass Avocado', 'Pure Sparkling Water', 'Organic Seasoned Yukon Select Potatoes Hashed Browns'})"
+0.005641748942172073,"frozenset({'Petit Suisse Fruit', 'Organic Heavy Whipping Cream', 'Salted Butter'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Organic Heavy Whipping Cream'})"
+0.004936530324400564,"frozenset({'Organic Heavy Whipping Cream', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Salted Butter'})"
+0.010578279266572637,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Peach-Pear Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.009873060648801129,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Twilight Delight 72% Cacao Intense Dark Squares', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.009167842031029619,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Peach-Pear Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Unsweetened Original Almond Breeze Almond Milk', 'Twilight Delight 72% Cacao Intense Dark Squares', 'Organic Heritage Flakes Cereal'})"
+0.011988716502115656,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Peach-Pear Sparkling Water'})"
+0.005641748942172073,"frozenset({'Original Beef Jerky', 'Pistachios', 'Organic String Cheese'})"
+0.005641748942172073,"frozenset({'Original Beef Jerky', 'Soda', 'Organic String Cheese'})"
+0.005641748942172073,"frozenset({'Soda', 'Pistachios', 'Organic String Cheese'})"
+0.006346967559943582,"frozenset({'Original Beef Jerky', 'Pistachios', 'Soda'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Strawberry Preserves', 'Salted Butter'})"
+0.004936530324400564,"frozenset({'Pure Coconut Water', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Pure Coconut Water', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.004936530324400564,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Pure Coconut Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.005641748942172073,"frozenset({'Total 0% Raspberry Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.006346967559943582,"frozenset({'Total 0% Raspberry Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.006346967559943582,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt'})"
+0.005641748942172073,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.004936530324400564,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.005641748942172073,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt'})"
+0.005641748942172073,"frozenset({'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 0% Nonfat Greek Yogurt'})"
+0.004936530324400564,"frozenset({'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 0% Nonfat Greek Yogurt'})"
+0.005641748942172073,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 0% Nonfat Greek Yogurt'})"
+0.007757404795486601,"frozenset({'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.00846262341325811,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.00846262341325811,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.006346967559943582,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Raspberry Yogurt'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz'})"
+0.006346967559943582,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.006346967559943582,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.007052186177715092,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.004936530324400564,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz'})"
+0.006346967559943582,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.007052186177715092,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.006346967559943582,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.006346967559943582,"frozenset({'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.007757404795486601,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.006346967559943582,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.009873060648801129,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Organic Heritage Flakes Cereal', 'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Lemon Sparkling Water', ""Annie's Bunny Fruit Snacks Variety"", 'Organic Heritage Flakes Cereal', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Organic Heritage Flakes Cereal', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water'})"
+0.005641748942172073,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Lemon Sparkling Water', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Bunny-Luv Fresh Organic Carrots', 'Petit Suisse Fruit', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Petit Suisse Fruit', 'Salted Butter', 'Authentic French Brioche'})"
+0.005641748942172073,"frozenset({'Bonne Bouche Ash-Ripened Goat Cheese', 'Strawberry Preserves', 'Petit Suisse Fruit', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Wild Blueberry Preserves', 'Petit Suisse Fruit', 'Bonne Bouche Ash-Ripened Goat Cheese', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Organic Heavy Whipping Cream', 'Bunny-Luv Fresh Organic Carrots', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Bunny-Luv Fresh Organic Carrots', 'Organic Zucchini', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Strawberry Preserves', 'Bunny-Luv Fresh Organic Carrots', 'Authentic French Brioche'})"
+0.005641748942172073,"frozenset({'Petit Suisse Fruit', 'Organic Heavy Whipping Cream', 'Salted Butter', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Petit Suisse Fruit', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Organic Heavy Whipping Cream', 'Authentic French Brioche'})"
+0.004936530324400564,"frozenset({'Organic Heavy Whipping Cream', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Salted Butter', 'Authentic French Brioche'})"
+0.007052186177715092,"frozenset({'Medium Navel Orange', 'Dairy Free Coconut Milk Blueberry Yogurt Alternative', 'Bag of Organic Bananas', 'Dairy Free Coconut Milk Yogurt Alternative'})"
+0.005641748942172073,"frozenset({'Cran-Apple Juice Drink', 'Bars Peanut Butter', 'Caramel Cone Ice Cream', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Bars Peanut Butter', 'Honey Buns', 'Caramel Cone Ice Cream'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Bars Peanut Butter', 'Oatmeal Crème Pies', 'Caramel Cone Ice Cream'})"
+0.004936530324400564,"frozenset({'Bars Peanut Butter', 'Honey Buns', 'Caramel Cone Ice Cream', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Bars Peanut Butter', 'Oatmeal Crème Pies', 'Caramel Cone Ice Cream', 'Creamed Chipped Beef'})"
+0.006346967559943582,"frozenset({'Cran-Apple Juice Drink', 'Bars Peanut Butter', 'Honey Buns', 'Creamed Chipped Beef'})"
+0.006346967559943582,"frozenset({'Cran-Apple Juice Drink', 'Bars Peanut Butter', 'Oatmeal Crème Pies', 'Creamed Chipped Beef'})"
+0.006346967559943582,"frozenset({'Cran-Apple Juice Drink', 'Bars Peanut Butter', 'Honey Buns', 'Oatmeal Crème Pies'})"
+0.005641748942172073,"frozenset({'Oatmeal Crème Pies', 'Bars Peanut Butter', 'Honey Buns', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Honey Buns', 'Caramel Cone Ice Cream', 'Creamed Chipped Beef'})"
+0.007052186177715092,"frozenset({'Cran-Apple Juice Drink', 'Oatmeal Crème Pies', 'Caramel Cone Ice Cream', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Original Fresh Stack Crackers', 'Caramel Cone Ice Cream', 'Oatmeal Crème Pies'})"
+0.004936530324400564,"frozenset({'Oatmeal Crème Pies', 'Original Fresh Stack Crackers', 'Caramel Cone Ice Cream', 'Creamed Chipped Beef'})"
+0.005641748942172073,"frozenset({'Soda', 'Dry Roasted Almonds', 'Zero Calorie Cola', 'Clementines'})"
+0.005641748942172073,"frozenset({'Hass Avocados', 'Soda', 'Zero Calorie Cola', 'Clementines'})"
+0.006346967559943582,"frozenset({'Oatmeal Crème Pies', 'Cran-Apple Juice Drink', 'Honey Buns', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Oatmeal Crème Pies', 'Cran-Apple Juice Drink', 'Original Fresh Stack Crackers', 'Creamed Chipped Beef'})"
+0.005641748942172073,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Organic Heritage Flakes Cereal', 'Dark & Mint Filled Chocolate Squares', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.007757404795486601,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Organic Heritage Flakes Cereal', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Organic Heritage Flakes Cereal', 'Dark & Mint Filled Chocolate Squares', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Organic Heritage Flakes Cereal', 'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Organic Heritage Flakes Cereal', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Organic Heritage Flakes Cereal', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Organic Heritage Flakes Cereal', 'Orange Sparkling Water', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Organic Heritage Flakes Cereal', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.00846262341325811,"frozenset({'Lemon Sparkling Water', 'Organic Heritage Flakes Cereal', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Organic Heritage Flakes Cereal', 'Orange Sparkling Water', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Organic Heritage Flakes Cereal', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.007052186177715092,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Organic Bunny Fruit Tropical Treat Fruit Snacks'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Orange Sparkling Water'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Graham Crunch Cereal', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Organic Summer Strawberry Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Organic Heritage Flakes Cereal', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars'})"
+0.005641748942172073,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Organic Heritage Flakes Cereal', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Dark Chocolate Minis', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Dark Chocolate Minis', 'Peach-Pear Sparkling Water'})"
+0.005641748942172073,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Heritage Flakes Cereal', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Peach-Pear Sparkling Water'})"
+0.005641748942172073,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Peach-Pear Sparkling Water'})"
+0.005641748942172073,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Peach-Pear Sparkling Water'})"
+0.00846262341325811,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Peach-Pear Sparkling Water', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.00846262341325811,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.007757404795486601,"frozenset({'Sparkling Water, Natural Mango Essenced', 'Peach-Pear Sparkling Water', 'Dark Chocolate Minis', 'Organic Heritage Flakes Cereal'})"
+0.010578279266572637,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Peach-Pear Sparkling Water', 'Dark Chocolate Minis'})"
+0.004936530324400564,"frozenset({'Hass Avocados', 'Soda', 'Zero Calorie Cola', 'Dry Roasted Almonds'})"
+0.005641748942172073,"frozenset({'Grade A Extra Large Eggs', 'Light Oaked Chardonnay', 'Organic Chunky Vegetable Soup', 'Natural Lime Flavor Sparkling Mineral Water'})"
+0.004936530324400564,"frozenset({'Grade A Extra Large Eggs', 'Light Oaked Chardonnay', 'Strawberries', 'Natural Lime Flavor Sparkling Mineral Water'})"
+0.004936530324400564,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Healthy Grains Granola Bar, Vanilla Blueberry', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Orange Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Organic Heritage Flakes Cereal', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Heritage Flakes Cereal', 'Sparkling Water, Natural Mango Essenced', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Peach-Pear Sparkling Water'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Natural Artesian Water'})"
+0.004936530324400564,"frozenset({'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Natural Artesian Water'})"
+0.005641748942172073,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Natural Artesian Water'})"
+0.005641748942172073,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.006346967559943582,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.005641748942172073,"frozenset({'Organic Heritage Flakes Cereal', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Graham Crunch Cereal', 'Peach-Pear Sparkling Water'})"
+0.006346967559943582,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Organic Graham Crunch Cereal', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Organic Heritage Flakes Cereal', 'Sparkling Water, Natural Mango Essenced', 'Organic Graham Crunch Cereal', 'Peach-Pear Sparkling Water'})"
+0.005641748942172073,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Organic Graham Crunch Cereal', 'Peach-Pear Sparkling Water'})"
+0.009167842031029619,"frozenset({'Organic Pink Lemonade Bunny Fruit Snacks', 'Sparkling Water, Natural Mango Essenced', 'Peach-Pear Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Original Beef Jerky', 'Pistachios', 'Soda', 'Organic String Cheese'})"
+0.004936530324400564,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Pure Coconut Water', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.005641748942172073,"frozenset({'Total 0% Raspberry Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.005641748942172073,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.006346967559943582,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.005641748942172073,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.004936530324400564,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 0% Nonfat Greek Yogurt'})"
+0.005641748942172073,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 0% Nonfat Greek Yogurt'})"
+0.004936530324400564,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt with Peach', 'Total 0% Nonfat Greek Yogurt'})"
+0.007757404795486601,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.004936530324400564,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.006346967559943582,"frozenset({'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry'})"
+0.006346967559943582,"frozenset({'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.006346967559943582,"frozenset({'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.005641748942172073,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Crunch Chocolate Peanut Butter Granola Bar', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Lemon Sparkling Water', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Honey Buns', 'Caramel Cone Ice Cream', 'Bars Peanut Butter', 'Creamed Chipped Beef'})"
+0.004936530324400564,"frozenset({'Cran-Apple Juice Drink', 'Oatmeal Crème Pies', 'Caramel Cone Ice Cream', 'Bars Peanut Butter', 'Creamed Chipped Beef'})"
+0.005641748942172073,"frozenset({'Cran-Apple Juice Drink', 'Oatmeal Crème Pies', 'Honey Buns', 'Bars Peanut Butter', 'Creamed Chipped Beef'})"
+0.005641748942172073,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Organic Bunny Fruit Tropical Treat Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.006346967559943582,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', 'Orange Sparkling Water', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Dark Chocolate Minis', 'Crunch Chocolate Peanut Butter Granola Bar', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Crunch Chocolate Peanut Butter Granola Bar', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Lemon Sparkling Water', 'Orange Sparkling Water', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Crunch Chocolate Peanut Butter Granola Bar', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Dark & Mint Filled Chocolate Squares', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Peach-Pear Sparkling Water', 'Dark Chocolate Minis', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Peach-Pear Sparkling Water', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Sparkling Water, Natural Mango Essenced', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Peach-Pear Sparkling Water', 'Organic Graham Crunch Cereal', 'Dark Chocolate Minis', 'Sparkling Water, Natural Mango Essenced', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Graham Crunch Cereal', 'Peach-Pear Sparkling Water', 'Dark Chocolate Minis', 'Sparkling Water, Natural Mango Essenced', 'Organic Pink Lemonade Bunny Fruit Snacks'})"
+0.007757404795486601,"frozenset({'Peach-Pear Sparkling Water', 'Dark Chocolate Minis', 'Sparkling Water, Natural Mango Essenced', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Peach-Pear Sparkling Water', 'Maple Pumpkin Seeds with Sea Salt Chewy with a Crunch Granola Bars', 'Sparkling Water, Natural Mango Essenced', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Total 0% Nonfat Greek Yogurt', 'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Natural Artesian Water', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.005641748942172073,"frozenset({'Organic Graham Crunch Cereal', 'Peach-Pear Sparkling Water', 'Sparkling Water, Natural Mango Essenced', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
+0.005641748942172073,"frozenset({'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% All Natural Greek Strained Yogurt with Honey', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 0% Nonfat Greek Yogurt', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.004936530324400564,"frozenset({'Total 2% Greek Strained Yogurt with Cherry 5.3 oz', 'Total 2% Lowfat Greek Strained Yogurt With Blueberry', 'Total 0% Raspberry Yogurt', 'Total 2% with Strawberry Lowfat Greek Strained Yogurt', 'Total 2% Lowfat Greek Strained Yogurt with Peach'})"
+0.005641748942172073,"frozenset({'Lemon Sparkling Water', 'Dark & Mint Filled Chocolate Squares', ""Annie's Bunny Fruit Snacks Variety"", 'Orange Sparkling Water', 'Crunch Chocolate Peanut Butter Granola Bar', 'Organic Heritage Flakes Cereal'})"
+0.004936530324400564,"frozenset({'Organic Graham Crunch Cereal', 'Peach-Pear Sparkling Water', 'Dark Chocolate Minis', 'Sparkling Water, Natural Mango Essenced', 'Organic Pink Lemonade Bunny Fruit Snacks', 'Organic Heritage Flakes Cereal'})"
